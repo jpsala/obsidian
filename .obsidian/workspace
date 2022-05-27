@@ -4,12 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2717b73827387c44",
+        "id": "c89eb2b7ce974d67",
         "type": "leaf",
         "state": {
-          "type": "excalidraw",
+          "type": "markdown",
           "state": {
-            "file": "Roswell/Draw.md"
+            "file": "Tickets.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
           }
         }
       }
@@ -38,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#ticket/non-billable",
+                "query": "non-",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -47,7 +50,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -91,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Roswell/Draw.md",
+                "file": "Tickets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,15 +130,15 @@
     "direction": "horizontal",
     "width": 338
   },
-  "active": "2717b73827387c44",
+  "active": "c89eb2b7ce974d67",
   "lastOpenFiles": [
-    "Roswell/Draw.md",
-    "Roswell/standup 2022.5.27.md",
-    "Roswell/test.md",
-    "Personal/NDE/Test note.md",
-    "Personal/test 233.md",
     "Tickets.md",
     "suma.md",
+    "Roswell/Draw.md",
+    "Roswell/test.md",
+    "Roswell/standup 2022.5.27.md",
+    "Personal/NDE/Test note.md",
+    "Personal/test 233.md",
     "1326px.md",
     "test 23.md"
   ]

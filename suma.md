@@ -14,5 +14,4 @@ aliases: [AI, Artificial Intelligence]
 | uno | dos |
 | --- | --- |
 | 1   | 2   |
-| 3   | 4   |
 |     |     |
