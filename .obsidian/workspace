@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:",
+                "query": "htt",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,7 +58,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",

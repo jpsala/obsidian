@@ -42,5 +42,5 @@
   },
   "timestampTemplate": "\n{{TIMESTAMP}}\n",
   "timestampOffset": 0,
-  "hideEmbedControls": true
+  "hideEmbedControls": false
 }
