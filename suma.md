@@ -11,7 +11,4 @@ aliases: [AI, Artificial Intelligence]
       Gascon cor/santia regi pub comercio
       registro civil
 
-| hola | chau |
-| ---- | ---- |
-| hey  | yes  |
-| dos     |      |
+|uno|dos|

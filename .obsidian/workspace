@@ -4,25 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "dbf83c38c52129cc",
+        "id": "4f43ef8973b05828",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Personal/NDE/Test note.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "caba1b7e570fb9d9",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Roswell/test.md",
+            "file": "suma.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -63,7 +50,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -110,7 +98,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "7302ffb5ba7df823",
@@ -123,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/NDE/Test note.md",
+                "file": "suma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,15 +147,15 @@
     "direction": "horizontal",
     "width": 254
   },
-  "active": "dbf83c38c52129cc",
+  "active": "4f43ef8973b05828",
   "lastOpenFiles": [
-    "Personal/NDE/Test note.md",
-    "Roswell/test.md",
-    "Personal/test 233.md",
-    "Roswell/standup 2022.5.27.md",
-    "Tickets.md",
-    "1326px.md",
     "suma.md",
+    "Tickets.md",
+    "Roswell/test.md",
+    "Roswell/standup 2022.5.27.md",
+    "Personal/NDE/Test note.md",
+    "Personal/test 233.md",
+    "1326px.md",
     "test 23.md"
   ]
 }
