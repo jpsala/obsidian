@@ -6,6 +6,7 @@
       {
         "id": "f6bdea0d256fc4b2",
         "type": "leaf",
+        "dimension": 62.88888888888889,
         "state": {
           "type": "markdown",
           "state": {
@@ -14,7 +15,23 @@
             "backlinks": false,
             "source": false
           }
-        }
+        },
+        "group": "b845675e7f312cab"
+      },
+      {
+        "id": "41a62a8872e83c05",
+        "type": "leaf",
+        "dimension": 37.111111111111114,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2022-05-27.md",
+            "mode": "preview",
+            "backlinks": false,
+            "source": false
+          }
+        },
+        "group": "b845675e7f312cab"
       }
     ],
     "direction": "vertical"
