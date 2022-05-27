@@ -49,6 +49,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "8ccff1d1fbc9cab3",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
           }
         ]
       }
