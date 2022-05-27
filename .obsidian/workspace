@@ -7,12 +7,9 @@
         "id": "2717b73827387c44",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "excalidraw",
           "state": {
-            "file": "Roswell/test.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
+            "file": "Roswell/Draw.md"
           }
         }
       }
@@ -66,14 +63,6 @@
         "dimension": 32.007952286282304,
         "children": [
           {
-            "id": "809340a7fc97b937",
-            "type": "leaf",
-            "state": {
-              "type": "FANTASY_CALENDAR",
-              "state": {}
-            }
-          },
-          {
             "id": "fbc7d908fd9b0217",
             "type": "leaf",
             "state": {
@@ -102,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Roswell/test.md",
+                "file": "Roswell/Draw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,12 +128,13 @@
   },
   "active": "2717b73827387c44",
   "lastOpenFiles": [
+    "Roswell/Draw.md",
+    "Roswell/standup 2022.5.27.md",
     "Roswell/test.md",
     "Personal/NDE/Test note.md",
-    "suma.md",
     "Personal/test 233.md",
-    "Roswell/standup 2022.5.27.md",
     "Tickets.md",
+    "suma.md",
     "1326px.md",
     "test 23.md"
   ]
