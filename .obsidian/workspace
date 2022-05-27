@@ -7,9 +7,12 @@
         "id": "5a4a58a92d79ab32",
         "type": "leaf",
         "state": {
-          "type": "excalidraw",
+          "type": "markdown",
           "state": {
-            "file": "Roswell/Draw.md"
+            "file": "test 3.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
           }
         }
       }
@@ -92,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Roswell/Draw.md",
+                "file": "test 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,13 +141,13 @@
   },
   "active": "5a4a58a92d79ab32",
   "lastOpenFiles": [
+    "test 3.md",
+    "Tickets.md",
     "Roswell/Draw.md",
     "Roswell/standup 2022.5.27.md",
     "Personal/Daily/2022-05-27.md",
     "Roswell/test.md",
-    "test 3.md",
     "Personal/suma.md",
-    "Tickets.md",
     "TODO.md",
     "Personal/Daily/2022-06-03.md",
     "Personal/test 233.md"

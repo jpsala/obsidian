@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "test 3",
+      "path": "test 3.md"
+    },
+    {
+      "basename": "Tickets",
+      "path": "Tickets.md"
+    },
+    {
       "basename": "Draw",
       "path": "Roswell/Draw.md"
     },
@@ -17,16 +25,8 @@
       "path": "Roswell/test.md"
     },
     {
-      "basename": "test 3",
-      "path": "test 3.md"
-    },
-    {
       "basename": "suma",
       "path": "Personal/suma.md"
-    },
-    {
-      "basename": "Tickets",
-      "path": "Tickets.md"
     },
     {
       "basename": "TODO",
