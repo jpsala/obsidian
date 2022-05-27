@@ -14,7 +14,26 @@
             "backlinks": false,
             "source": false
           }
-        }
+        },
+        "group": "1c374aeb7c740e5d"
+      },
+      {
+        "id": "2c2ddcc257ccfa18",
+        "type": "leaf",
+        "state": {
+          "type": "media-view",
+          "state": {
+            "info": {
+              "host": 0,
+              "id": "ccN5vJzXwvo",
+              "iframe": "https://www.youtube.com/embed/ccN5vJzXwvo",
+              "src": "https://www.youtube.com/watch?v=ccN5vJzXwvo",
+              "hash": ""
+            },
+            "currentTime": 289.8708891595615
+          }
+        },
+        "group": "1c374aeb7c740e5d"
       }
     ],
     "direction": "vertical"
