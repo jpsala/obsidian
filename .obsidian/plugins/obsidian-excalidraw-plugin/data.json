@@ -58,7 +58,50 @@
     "type": "excalidrawlib",
     "version": 2,
     "source": "https://excalidraw.com",
-    "libraryItems": []
+    "libraryItems": [
+      {
+        "status": "unpublished",
+        "elements": [
+          {
+            "type": "text",
+            "version": 134,
+            "versionNonce": 1799311823,
+            "isDeleted": false,
+            "id": "5J1YEYJC",
+            "fillStyle": "hachure",
+            "strokeWidth": 1,
+            "strokeStyle": "solid",
+            "roughness": 1,
+            "opacity": 50,
+            "angle": 0,
+            "x": 172.5,
+            "y": -314,
+            "strokeColor": "#000000",
+            "backgroundColor": "transparent",
+            "width": 110,
+            "height": 54,
+            "seed": 211906478,
+            "groupIds": [],
+            "strokeSharpness": "sharp",
+            "boundElements": [],
+            "updated": 1653693659231,
+            "link": "[[test]]",
+            "locked": false,
+            "fontSize": 20,
+            "fontFamily": 1,
+            "text": "📍[[test]] \n",
+            "rawText": "[[test]] \n",
+            "baseline": 47,
+            "textAlign": "left",
+            "verticalAlign": "top",
+            "containerId": null,
+            "originalText": "📍[[test]] \n"
+          }
+        ],
+        "id": "TObT1kv_9QneDlixHwxcE",
+        "created": 1653693669409
+      }
+    ]
   },
   "imageElementNotice": true,
   "mdSVGwidth": 500,
