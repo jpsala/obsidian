@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Tickets.md",
+            "file": "suma.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "non-",
+                "query": "file:",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -64,7 +64,7 @@
       {
         "id": "33685b040d477175",
         "type": "tabs",
-        "dimension": 32.007952286282304,
+        "dimension": 52.019386106623585,
         "children": [
           {
             "id": "fbc7d908fd9b0217",
@@ -81,21 +81,14 @@
               "type": "git-view",
               "state": {}
             }
-          }
-        ]
-      },
-      {
-        "id": "7302ffb5ba7df823",
-        "type": "tabs",
-        "dimension": 38.46918489065607,
-        "children": [
+          },
           {
             "id": "131a82a89d58d39d",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tickets.md",
+                "file": "suma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,12 +99,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "33504e74fda1bc4b",
         "type": "tabs",
-        "dimension": 29.52286282306163,
+        "dimension": 47.980613893376415,
         "children": [
           {
             "id": "a698d76aac0685e1",
@@ -132,10 +126,10 @@
   },
   "active": "c89eb2b7ce974d67",
   "lastOpenFiles": [
-    "Tickets.md",
     "suma.md",
     "Roswell/Draw.md",
     "Roswell/test.md",
+    "Tickets.md",
     "Roswell/standup 2022.5.27.md",
     "Personal/NDE/Test note.md",
     "Personal/test 233.md",

@@ -14,5 +14,13 @@
       ],
       "key": "ArrowRight"
     }
+  ],
+  "darlal-switcher-plus:switcher-plus:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Q"
+    }
   ]
 }
