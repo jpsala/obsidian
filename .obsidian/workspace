@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "c89eb2b7ce974d67",
+        "id": "f6bdea0d256fc4b2",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "suma.md",
+            "file": "2022-05-27.md",
             "mode": "source",
-            "backlinks": true,
+            "backlinks": false,
             "source": false
           }
         }
@@ -50,8 +50,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -88,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "suma.md",
+                "file": "2022-05-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,9 +97,17 @@
                 "unlinkedCollapsed": false
               }
             }
+          },
+          {
+            "id": "e7e3fb7372c7a75d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "33504e74fda1bc4b",
@@ -124,16 +131,17 @@
     "direction": "horizontal",
     "width": 338
   },
-  "active": "c89eb2b7ce974d67",
+  "active": "f6bdea0d256fc4b2",
   "lastOpenFiles": [
-    "suma.md",
-    "Roswell/Draw.md",
+    "2022-05-27.md",
+    "test 3.md",
     "Roswell/test.md",
+    "Roswell/Draw.md",
+    "Personal/test 233.md",
+    "suma.md",
     "Tickets.md",
     "Roswell/standup 2022.5.27.md",
     "Personal/NDE/Test note.md",
-    "Personal/test 233.md",
-    "1326px.md",
-    "test 23.md"
+    "1326px.md"
   ]
 }
