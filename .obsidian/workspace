@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "7a2991226c184de3",
+        "id": "44b26e985a67dd84",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Personal/suma.md",
+            "file": "Roswell/Standups/standup 2022.5.27.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -49,14 +49,6 @@
                 "sortOrder": "byModifiedTime"
               }
             }
-          },
-          {
-            "id": "8ccff1d1fbc9cab3",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
           }
         ]
       }
@@ -78,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/suma.md",
+                "file": "Roswell/Standups/standup 2022.5.27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,9 +88,17 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "8ccff1d1fbc9cab3",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "33504e74fda1bc4b",
@@ -119,20 +119,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246.1704559326172,
-    "collapsed": true
+    "width": 246.1704559326172
   },
-  "active": "7a2991226c184de3",
+  "active": "44b26e985a67dd84",
   "lastOpenFiles": [
+    "Roswell/Standups/standup 2022.5.27.md",
+    "Roswell/Draw.md",
+    "Roswell/tickets/non billable.md",
     "Personal/suma.md",
-    "Untitled 4.md",
-    "new/Untitled.md",
-    "asdds.md",
-    "Untitled 3.md",
-    "[[aaa]].md",
+    "Personal/obsidian.md",
+    "personal/obsidian.md",
+    "templates/ticket.md",
+    "Tesis/Para-RO.md",
     "Personal/NDE/Test note.md",
-    "Personal/test 233.md",
-    "Roswell/standup 2022.5.27.md",
-    "Roswell/tickets/Tickets.md"
+    "new/Untitled.md"
   ]
 }

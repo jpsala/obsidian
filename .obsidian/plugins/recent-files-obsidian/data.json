@@ -1,24 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "standup 2022.5.27",
+      "path": "Roswell/Standups/standup 2022.5.27.md"
+    },
+    {
+      "basename": "non billable",
+      "path": "Roswell/tickets/non billable.md"
+    },
+    {
       "basename": "suma",
       "path": "Personal/suma.md"
     },
     {
-      "basename": "Untitled",
-      "path": "new/Untitled.md"
+      "basename": "obsidian",
+      "path": "Personal/obsidian.md"
+    },
+    {
+      "basename": "obsidian",
+      "path": "personal/obsidian.md"
+    },
+    {
+      "basename": "ticket",
+      "path": "templates/ticket.md"
+    },
+    {
+      "basename": "Para-RO",
+      "path": "Tesis/Para-RO.md"
     },
     {
       "basename": "Test note",
       "path": "Personal/NDE/Test note.md"
     },
     {
-      "basename": "standup 2022.5.27",
-      "path": "Roswell/standup 2022.5.27.md"
-    },
-    {
-      "basename": "Tickets",
-      "path": "Roswell/tickets/Tickets.md"
+      "basename": "Untitled",
+      "path": "new/Untitled.md"
     },
     {
       "basename": "2022-06-03",
@@ -27,18 +43,6 @@
     {
       "basename": "2022-05-27",
       "path": "Personal/Daily/2022-05-27.md"
-    },
-    {
-      "basename": "Para-RO",
-      "path": "Tesis/Para-RO.md"
-    },
-    {
-      "basename": "ticket",
-      "path": "templates/ticket.md"
-    },
-    {
-      "basename": "Draw",
-      "path": "Roswell/Draw.md"
     }
   ],
   "omittedPaths": [],

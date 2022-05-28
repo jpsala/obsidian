@@ -1,6 +1,6 @@
 {
-  "baseFontSize": 17,
-  "cssTheme": "Primary",
+  "baseFontSize": 20,
+  "cssTheme": "Solarized",
   "theme": "moonstone",
   "enabledCssSnippets": [
     "checkbox"
