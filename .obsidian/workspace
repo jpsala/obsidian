@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "a2013dc3321b1dc1",
+        "id": "e94faba2f3c77b75",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "asdfasdfasd.md",
+            "file": "Untitled 3.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -19,31 +19,19 @@
           "pos": 0,
           "stack": [
             {
-              "leaf": "a2013dc3321b1dc1",
+              "leaf": "e94faba2f3c77b75",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Untitled 3.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "e94faba2f3c77b75",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"asdfasdfasd.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
-              "leaf": "a2013dc3321b1dc1",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"asdfadsf.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "a2013dc3321b1dc1",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"templater/ticket.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "a2013dc3321b1dc1",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"hola.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":9},\"to\":{\"line\":14,\"ch\":9}}}"
-            },
-            {
-              "leaf": "a2013dc3321b1dc1",
+              "leaf": "e94faba2f3c77b75",
               "group": null,
               "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
@@ -80,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -104,13 +92,25 @@
               "pos": 0,
               "stack": []
             }
+          },
+          {
+            "id": "9821cdcbe3538e39",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 215
+    "width": 148.00078010559082
   },
   "right": {
     "id": "6863e900ee850731",
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "asdfasdfasd.md",
+                "file": "Untitled 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,16 +179,16 @@
       }
     ],
     "direction": "horizontal",
-    "width": 338
+    "width": 246.1704559326172
   },
-  "active": "a2013dc3321b1dc1",
+  "active": "e94faba2f3c77b75",
   "lastOpenFiles": [
+    "Untitled 3.md",
     "asdfasdfasd.md",
     "asdfadsf.md",
-    "templater/ticket.md",
+    "templates/ticket 1.md",
     "hola.md",
-    "Untitled 3.md",
-    "templater/test1.md",
+    "templates/test1.md",
     "TODO.md",
     "hola3.md",
     "Untitled 2.md",

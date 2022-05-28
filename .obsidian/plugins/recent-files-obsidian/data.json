@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled 3",
+      "path": "Untitled 3.md"
+    },
+    {
       "basename": "asdfasdfasd",
       "path": "asdfasdfasd.md"
     },
@@ -9,20 +13,16 @@
       "path": "asdfadsf.md"
     },
     {
-      "basename": "ticket",
-      "path": "templater/ticket.md"
+      "basename": "ticket 1",
+      "path": "templates/ticket 1.md"
     },
     {
       "basename": "hola",
       "path": "hola.md"
     },
     {
-      "basename": "Untitled 3",
-      "path": "Untitled 3.md"
-    },
-    {
       "basename": "test1",
-      "path": "templater/test1.md"
+      "path": "templates/test1.md"
     },
     {
       "basename": "TODO",

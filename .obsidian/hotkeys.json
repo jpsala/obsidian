@@ -39,5 +39,14 @@
       ],
       "key": "W"
     }
+  ],
+  "templater-obsidian:templater/ticket.md": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "T"
+    }
   ]
 }

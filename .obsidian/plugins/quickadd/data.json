@@ -1,0 +1,32 @@
+{
+  "choices": [
+    {
+      "id": "0641a6c9-50a9-4dd6-a6d0-f6b0c2b43b2b",
+      "name": "test",
+      "type": "Template",
+      "command": false,
+      "templatePath": "templates/test",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": false,
+        "folders": [],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": true,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    }
+  ],
+  "macros": [],
+  "inputPrompt": "single-line"
+}
