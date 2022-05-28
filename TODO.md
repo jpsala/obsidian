@@ -10,7 +10,5 @@ tags: TODO
 | 19:30 | Daniel |
 |    [[ttt]]   |        |
 
-```query
-search
-```
+
 

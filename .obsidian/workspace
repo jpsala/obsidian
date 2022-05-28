@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "f21c5374d1f4b7fa",
+        "id": "3b8bf064b04b12ee",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "asdds.md",
+            "file": "TODO.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -19,19 +19,25 @@
           "pos": 0,
           "stack": [
             {
-              "leaf": "f21c5374d1f4b7fa",
+              "leaf": "3b8bf064b04b12ee",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"asdds.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"TODO.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
-              "leaf": "f21c5374d1f4b7fa",
+              "leaf": "3b8bf064b04b12ee",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"templater/ticket.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":135},\"to\":{\"line\":8,\"ch\":135}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"templater/test1.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":503},\"to\":{\"line\":0,\"ch\":503}}}"
             },
             {
-              "leaf": "f21c5374d1f4b7fa",
+              "leaf": "3b8bf064b04b12ee",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"hola3.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "3b8bf064b04b12ee",
               "group": null,
               "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
@@ -113,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "asdds.md",
+                "file": "TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,17 +174,17 @@
     "direction": "horizontal",
     "width": 338
   },
-  "active": "f21c5374d1f4b7fa",
+  "active": "3b8bf064b04b12ee",
   "lastOpenFiles": [
-    "asdds.md",
+    "TODO.md",
+    "templater/test1.md",
+    "hola3.md",
+    "Untitled 2.md",
+    "hola.md",
     "templater/ticket.md",
+    "asdds.md",
     "Untitled 1.md",
     "Untitled.md",
-    "asdfasdf.md",
-    "templates/ticket.md",
-    "ttt.md",
-    "TODO.md",
-    "test 3.md",
-    "qry1.md"
+    "asdfasdf.md"
   ]
 }
