@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "[[aaa]].md",
+            "file": "test 3.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tesis",
+                "query": "https://history-computer.com/ModernComputer/Basis/images/Engelbart.jpg",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,7 +58,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -95,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "[[aaa]].md",
+                "file": "test 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +141,15 @@
   },
   "active": "74dbb8b498a6ff31",
   "lastOpenFiles": [
-    "[[aaa]].md",
     "test 3.md",
+    "[[aaa]].md",
     "Tickets.md",
-    
+    "TODO.md",
+    "Untitled.md",
+    "Tesis/Para-RO.md",
+    "Roswell/Draw.md",
+    "Roswell/standup 2022.5.27.md",
+    "Personal/Daily/2022-05-27.md",
+    "Roswell/test.md"
+  ]
+}
