@@ -25,7 +25,7 @@ function hello() {
 - [x] dos
 - [ ] tres
 - [x] <mark style="font-weight:400;color:yellow;background: coral;">cuatro</mark> 
-cinco
+- [x] cinco
 
 
 beyond tests it is git!
