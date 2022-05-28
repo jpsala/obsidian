@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "80ea9144b80723a2",
+        "id": "f21c5374d1f4b7fa",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ttt.md",
+            "file": "asdds.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -19,123 +19,21 @@
           "pos": 0,
           "stack": [
             {
-              "leaf": "80ea9144b80723a2",
+              "leaf": "f21c5374d1f4b7fa",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"ttt.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"asdds.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
-              "leaf": "80ea9144b80723a2",
+              "leaf": "f21c5374d1f4b7fa",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"TODO.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"templater/ticket.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":135},\"to\":{\"line\":8,\"ch\":135}}}"
             },
             {
-              "leaf": "80ea9144b80723a2",
+              "leaf": "f21c5374d1f4b7fa",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"test 3.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "80ea9144b80723a2",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"qry1.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "80ea9144b80723a2",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"aaa.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "80ea9144b80723a2",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"[[aaa]].md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "80ea9144b80723a2",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Tesis/Para-RO.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "80ea9144b80723a2",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Roswell/Tickets.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "80ea9144b80723a2",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Roswell/test.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "80ea9144b80723a2",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Roswell/standup 2022.5.27.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "80ea9144b80723a2",
-              "group": null,
-              "state": "{\"type\":\"excalidraw\",\"state\":{\"file\":\"Roswell/Draw.md\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "80ea9144b80723a2",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Personal/test 233.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "80ea9144b80723a2",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Personal/suma.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":3.2941175527756528}"
-            },
-            {
-              "leaf": "80ea9144b80723a2",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Personal/NDE/Test note.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":14.344538151178208}"
-            },
-            {
-              "leaf": "80ea9144b80723a2",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Personal/Daily/2022-06-03.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "80ea9144b80723a2",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Personal/Daily/2022-05-27.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":10.480074555476147}"
-            },
-            {
-              "leaf": "80ea9144b80723a2",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Roswell/Tickets.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "80ea9144b80723a2",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Tesis/Para-RO.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "80ea9144b80723a2",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"aaa.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "80ea9144b80723a2",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Tesis/Para-RO.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
             }
           ]
@@ -215,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ttt.md",
+                "file": "asdds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -270,17 +168,17 @@
     "direction": "horizontal",
     "width": 338
   },
-  "active": "80ea9144b80723a2",
+  "active": "f21c5374d1f4b7fa",
   "lastOpenFiles": [
+    "asdds.md",
+    "templater/ticket.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "asdfasdf.md",
+    "templates/ticket.md",
     "ttt.md",
     "TODO.md",
     "test 3.md",
-    "qry1.md",
-    "aaa.md",
-    "[[aaa]].md",
-    "Tesis/Para-RO.md",
-    "Roswell/Tickets.md",
-    "Roswell/test.md",
-    "Roswell/standup 2022.5.27.md"
+    "qry1.md"
   ]
 }
