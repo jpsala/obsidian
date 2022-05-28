@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "996c8ea45d2da3fe",
+        "id": "7a2991226c184de3",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Personal/NDE/Test note.md",
+            "file": "Personal/suma.md",
             "mode": "source",
-            "backlinks": true,
+            "backlinks": false,
             "source": false
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/NDE/Test note.md",
+                "file": "Personal/suma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,17 +122,17 @@
     "width": 246.1704559326172,
     "collapsed": true
   },
-  "active": "996c8ea45d2da3fe",
+  "active": "7a2991226c184de3",
   "lastOpenFiles": [
-    "Personal/NDE/Test note.md",
     "Personal/suma.md",
-    "Roswell/standup 2022.5.27.md",
-    "Roswell/tickets/Tickets.md",
-    "test 3.md",
+    "Untitled 4.md",
+    "new/Untitled.md",
+    "asdds.md",
+    "Untitled 3.md",
+    "[[aaa]].md",
+    "Personal/NDE/Test note.md",
     "Personal/test 233.md",
-    "Personal/Daily/2022-06-03.md",
-    "Personal/Daily/2022-05-27.md",
-    "Tesis/Para-RO.md",
-    "Untitled 4.md"
+    "Roswell/standup 2022.5.27.md",
+    "Roswell/tickets/Tickets.md"
   ]
 }

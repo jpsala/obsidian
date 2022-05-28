@@ -1,6 +1,5 @@
 ---
 tag: todo/urgent
-var: test var
 ---
 	
 afiliaciones@suma.org.ar
@@ -13,3 +12,8 @@ registro civil
 | --- | --- |
 | 1   | 2   |
 |     |     |
+
+
+
+
+#todo/urgent 
