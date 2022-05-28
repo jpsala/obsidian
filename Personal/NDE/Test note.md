@@ -14,13 +14,13 @@ function hello() {
 
 ---
 
-hello all 22 [[test 233]] 
+#### hello all 22 [[test 233]] 
 
 ---
 - [x] uno
 - [x] dos
-- [x] tres
-- [ ] cuatro
+- [ ] tres
+- [x] <mark style="font-weight:400;color:yellow;background: coral;">cuatro</mark> 
 cinco
 
 
