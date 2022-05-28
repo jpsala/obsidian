@@ -1,6 +1,10 @@
 ---
 projectStatus: inProgress  
 ---
+#important
+#obsidian
+#important 
+
 
 *hello* _world_ `hola` si senor 
 ``` javascript

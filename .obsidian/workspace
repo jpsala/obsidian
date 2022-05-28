@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "22567ae8fc9ce889",
+        "id": "996c8ea45d2da3fe",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "Personal/NDE/Test note.md",
-            "mode": "source",
+            "mode": "preview",
             "backlinks": true,
             "source": false
           }
@@ -122,7 +122,7 @@
     "width": 246.1704559326172,
     "collapsed": true
   },
-  "active": "22567ae8fc9ce889",
+  "active": "996c8ea45d2da3fe",
   "lastOpenFiles": [
     "Personal/NDE/Test note.md",
     "Personal/suma.md",
