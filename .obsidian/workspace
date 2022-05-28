@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled 3.md",
+            "file": "Personal/Daily/2022-05-27.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -21,8 +21,14 @@
             {
               "leaf": "e94faba2f3c77b75",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Personal/Daily/2022-05-27.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "e94faba2f3c77b75",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Untitled 3.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+              "eState": "{\"scroll\":0}"
             },
             {
               "leaf": "e94faba2f3c77b75",
@@ -106,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -126,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 3.md",
+                "file": "Personal/Daily/2022-05-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,6 +189,7 @@
   },
   "active": "e94faba2f3c77b75",
   "lastOpenFiles": [
+    "Personal/Daily/2022-05-27.md",
     "Untitled 3.md",
     "asdfasdfasd.md",
     "asdfadsf.md",
@@ -191,7 +198,6 @@
     "templates/test1.md",
     "TODO.md",
     "hola3.md",
-    "Untitled 2.md",
-    "asdds.md"
+    "Untitled 2.md"
   ]
 }
