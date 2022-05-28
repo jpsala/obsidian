@@ -22,7 +22,7 @@
               "leaf": "a2013dc3321b1dc1",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"asdfasdfasd.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":0},\"to\":{\"line\":2,\"ch\":0}}}"
+              "eState": "{}"
             },
             {
               "leaf": "a2013dc3321b1dc1",
@@ -80,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ttt",
+                "query": "tag:",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,7 +105,8 @@
               "stack": []
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
