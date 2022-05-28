@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Personal/NDE/Test note.md",
+            "file": "ttt.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -58,8 +58,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -80,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/NDE/Test note.md",
+                "file": "ttt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,15 +125,15 @@
   },
   "active": "74dbb8b498a6ff31",
   "lastOpenFiles": [
+    "ttt.md",
+    "TODO.md",
+    "aaa.md",
     "Personal/NDE/Test note.md",
     "test 3.md",
     "[[aaa]].md",
     "Tickets.md",
-    "TODO.md",
-    "Untitled.md",
     "Tesis/Para-RO.md",
     "Roswell/Draw.md",
-    "Roswell/standup 2022.5.27.md",
-    "Personal/Daily/2022-05-27.md"
+    "Roswell/standup 2022.5.27.md"
   ]
 }

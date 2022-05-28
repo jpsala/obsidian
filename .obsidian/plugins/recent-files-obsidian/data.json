@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "ttt",
+      "path": "ttt.md"
+    },
+    {
+      "basename": "TODO",
+      "path": "TODO.md"
+    },
+    {
+      "basename": "aaa",
+      "path": "aaa.md"
+    },
+    {
       "basename": "Test note",
       "path": "Personal/NDE/Test note.md"
     },
@@ -15,10 +27,6 @@
     {
       "basename": "Tickets",
       "path": "Tickets.md"
-    },
-    {
-      "basename": "TODO",
-      "path": "TODO.md"
     },
     {
       "basename": "Para-RO",
