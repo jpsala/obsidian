@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "test 3.md",
+            "file": "Personal/NDE/Test note.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -41,10 +41,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "https://history-computer.com/ModernComputer/Basis/images/Engelbart.jpg",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -75,28 +75,12 @@
         "dimension": 52.019386106623585,
         "children": [
           {
-            "id": "fbc7d908fd9b0217",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "98e22e8c98193884",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
-          },
-          {
             "id": "131a82a89d58d39d",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test 3.md",
+                "file": "Personal/NDE/Test note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +99,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "33504e74fda1bc4b",
@@ -141,6 +126,7 @@
   },
   "active": "74dbb8b498a6ff31",
   "lastOpenFiles": [
+    "Personal/NDE/Test note.md",
     "test 3.md",
     "[[aaa]].md",
     "Tickets.md",
@@ -149,7 +135,6 @@
     "Tesis/Para-RO.md",
     "Roswell/Draw.md",
     "Roswell/standup 2022.5.27.md",
-    "Personal/Daily/2022-05-27.md",
-    "Roswell/test.md"
+    "Personal/Daily/2022-05-27.md"
   ]
 }
