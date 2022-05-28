@@ -1,12 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "Para-RO",
-      "path": "Tesis/Para-RO.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Untitled.md"
+      "basename": "[[aaa]]",
+      "path": "[[aaa]].md"
     },
     {
       "basename": "test 3",
@@ -15,6 +11,14 @@
     {
       "basename": "Tickets",
       "path": "Tickets.md"
+    },
+    {
+      "basename": "TODO",
+      "path": "TODO.md"
+    },
+    {
+      "basename": "Para-RO",
+      "path": "Tesis/Para-RO.md"
     },
     {
       "basename": "Draw",
@@ -35,10 +39,6 @@
     {
       "basename": "suma",
       "path": "Personal/suma.md"
-    },
-    {
-      "basename": "TODO",
-      "path": "TODO.md"
     },
     {
       "basename": "2022-06-03",

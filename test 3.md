@@ -1,5 +1,5 @@
 # <mark style="color: #FFF3A3A6;">Uncle Peppering</mark> 
 
-![Engelbart](https://history-computer.com/ModernComputer/Basis/images/Engelbart.jpg)
+![Engelbart]([[aaa]])
 
 This is my uncle peppering in 👇![[Tickets]]
