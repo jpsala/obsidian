@@ -1,10 +1,10 @@
 {
   "keepSelectedItemsCentered": false,
-  "outlineWidth": 5,
-  "autoPreviewMode": "singleView",
-  "cardViewLayout": "2x3",
-  "splitDirection": "horizontal",
-  "autoToggleSidebar": false,
+  "outlineWidth": 3,
+  "autoPreviewMode": "cardView",
+  "cardViewLayout": "2x2",
+  "splitDirection": "vertical",
+  "autoToggleSidebar": true,
   "renderCardsManually": false,
   "searchModeHotkeys": {
     "selectNext": [
@@ -70,6 +70,12 @@
           "Ctrl"
         ],
         "key": "]"
+      },
+      {
+        "modifiers": [
+          "Mod"
+        ],
+        "key": "ArrowDown"
       }
     ],
     "previousPage": [
@@ -78,6 +84,12 @@
           "Ctrl"
         ],
         "key": "["
+      },
+      {
+        "modifiers": [
+          "Mod"
+        ],
+        "key": "ArrowUp"
       }
     ],
     "copyLink": [

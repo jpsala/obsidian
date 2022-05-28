@@ -5,7 +5,7 @@ var: test var
 	
 afiliaciones@suma.org.ar
 cert negat anses
-fotoc dni
+								fotoc dni
 Gascon cor/santia regi pub comercio
 registro civil
 

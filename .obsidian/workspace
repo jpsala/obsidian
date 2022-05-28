@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "e94faba2f3c77b75",
+        "id": "be1858441cb1ec70",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "hola3.md",
+            "file": "Untitled 4.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -19,51 +19,33 @@
           "pos": 0,
           "stack": [
             {
-              "leaf": "e94faba2f3c77b75",
+              "leaf": "be1858441cb1ec70",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"hola3.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Untitled 4.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
               "eState": "{}"
             },
             {
-              "leaf": "e94faba2f3c77b75",
+              "leaf": "be1858441cb1ec70",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"hola.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"hola1.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
               "eState": "{}"
             },
             {
-              "leaf": "e94faba2f3c77b75",
+              "leaf": "be1858441cb1ec70",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"asdfasdf.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Personal/suma.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
               "eState": "{}"
             },
             {
-              "leaf": "e94faba2f3c77b75",
+              "leaf": "be1858441cb1ec70",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"hola3.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "e94faba2f3c77b75",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Personal/Daily/2022-05-27.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Roswell/standup 2022.5.27.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
               "eState": "{}"
             },
             {
-              "leaf": "e94faba2f3c77b75",
+              "leaf": "be1858441cb1ec70",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Untitled 3.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "e94faba2f3c77b75",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"asdfasdfasd.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "e94faba2f3c77b75",
-              "group": null,
-              "state": "{\"type\":\"empty\",\"state\":{}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"aaa.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
               "eState": "{}"
             }
           ]
@@ -98,12 +80,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "projec",
+                "query": "tag:#ticket",
                 "matchingCase": false,
-                "explainSearch": false,
+                "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             },
             "pane-relief:history-v1": {
@@ -140,7 +122,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 215.00078010559082
+    "width": 215.00078010559082,
+    "collapsed": true
   },
   "right": {
     "id": "6863e900ee850731",
@@ -156,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hola3.md",
+                "file": "Untitled 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,17 +194,17 @@
     "direction": "horizontal",
     "width": 246.1704559326172
   },
-  "active": "e94faba2f3c77b75",
+  "active": "be1858441cb1ec70",
   "lastOpenFiles": [
+    "Untitled 4.md",
+    "hola1.md",
+    "Personal/suma.md",
+    "Roswell/standup 2022.5.27.md",
+    "aaa.md",
     "hola3.md",
     "hola.md",
     "asdfasdf.md",
     "Personal/Daily/2022-05-27.md",
-    "Untitled 3.md",
-    "asdfasdfasd.md",
-    "asdfadsf.md",
-    "templates/ticket 1.md",
-    "templates/test1.md",
-    "TODO.md"
+    "Untitled 3.md"
   ]
 }
