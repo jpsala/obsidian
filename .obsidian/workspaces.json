@@ -245,7 +245,7 @@
                   "leaf": "b718ce795d7d975c",
                   "group": null,
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Roswell/standup 2022.5.27.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
               ]
             }
@@ -257,7 +257,7 @@
               {
                 "id": "c21b45f618007756",
                 "type": "leaf",
-                "dimension": 30.973451327433626,
+                "dimension": 30.973451327433633,
                 "state": {
                   "type": "markdown",
                   "state": {
@@ -378,7 +378,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Roswell/standup 2022.5.27.md",
+                    "file": "Roswell/Draw.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -433,8 +433,162 @@
         "direction": "horizontal",
         "width": 338
       },
-      "active": "b718ce795d7d975c"
+      "active": "cff17667c0cd866f"
+    },
+    "empty": {
+      "main": {
+        "id": "2193ab848e313310",
+        "type": "split",
+        "children": [
+          {
+            "id": "80ea9144b80723a2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "80ea9144b80723a2",
+                  "group": null,
+                  "state": "{\"type\":\"empty\",\"state\":{}}",
+                  "eState": "{}"
+                }
+              ]
+            }
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "e9f897cfb50dce29",
+        "type": "split",
+        "children": [
+          {
+            "id": "075aa338281157d9",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1a81c7fbd2d98a53",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
+                "id": "6b9627312fda95f6",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
+                "id": "8ccff1d1fbc9cab3",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 215
+      },
+      "right": {
+        "id": "6863e900ee850731",
+        "type": "split",
+        "children": [
+          {
+            "id": "33685b040d477175",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "131a82a89d58d39d",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": false
+                  }
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
+                "id": "e7e3fb7372c7a75d",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "33504e74fda1bc4b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a698d76aac0685e1",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 338
+      },
+      "active": "80ea9144b80723a2"
     }
   },
-  "active": "roswell"
+  "active": "empty"
 }

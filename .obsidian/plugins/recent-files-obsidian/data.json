@@ -1,52 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "standup 2022.5.27",
-      "path": "Roswell/standup 2022.5.27.md"
-    },
-    {
-      "basename": "test",
-      "path": "Roswell/test.md"
-    },
-    {
-      "basename": "Draw",
-      "path": "Roswell/Draw.md"
-    },
-    {
-      "basename": "Tickets",
-      "path": "Tickets.md"
-    },
-    {
-      "basename": "test 3",
-      "path": "test 3.md"
-    },
-    {
-      "basename": "aaa",
-      "path": "aaa.md"
+      "basename": "ttt",
+      "path": "ttt.md"
     },
     {
       "basename": "TODO",
       "path": "TODO.md"
     },
     {
+      "basename": "test 3",
+      "path": "test 3.md"
+    },
+    {
       "basename": "qry1",
       "path": "qry1.md"
     },
     {
-      "basename": "ttt",
-      "path": "ttt.md"
-    },
-    {
-      "basename": "2022-06-03",
-      "path": "Personal/Daily/2022-06-03.md"
-    },
-    {
-      "basename": "2022-05-27",
-      "path": "Personal/Daily/2022-05-27.md"
-    },
-    {
-      "basename": "Test note",
-      "path": "Personal/NDE/Test note.md"
+      "basename": "aaa",
+      "path": "aaa.md"
     },
     {
       "basename": "[[aaa]]",
@@ -57,12 +29,40 @@
       "path": "Tesis/Para-RO.md"
     },
     {
-      "basename": "suma",
-      "path": "Personal/suma.md"
+      "basename": "Tickets",
+      "path": "Roswell/Tickets.md"
+    },
+    {
+      "basename": "test",
+      "path": "Roswell/test.md"
+    },
+    {
+      "basename": "standup 2022.5.27",
+      "path": "Roswell/standup 2022.5.27.md"
+    },
+    {
+      "basename": "Draw",
+      "path": "Roswell/Draw.md"
     },
     {
       "basename": "test 233",
       "path": "Personal/test 233.md"
+    },
+    {
+      "basename": "suma",
+      "path": "Personal/suma.md"
+    },
+    {
+      "basename": "Test note",
+      "path": "Personal/NDE/Test note.md"
+    },
+    {
+      "basename": "2022-06-03",
+      "path": "Personal/Daily/2022-06-03.md"
+    },
+    {
+      "basename": "2022-05-27",
+      "path": "Personal/Daily/2022-05-27.md"
     }
   ],
   "omittedPaths": [],

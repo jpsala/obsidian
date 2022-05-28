@@ -3,5 +3,5 @@
   "livePreview": true,
   "promptDelete": false,
   "showFrontmatter": true,
-  "spellcheck": true
+  "spellcheck": false
 }

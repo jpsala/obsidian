@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "b718ce795d7d975c",
+        "id": "80ea9144b80723a2",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Roswell/standup 2022.5.27.md",
+            "file": "ttt.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -19,67 +19,127 @@
           "pos": 0,
           "stack": [
             {
-              "leaf": "b718ce795d7d975c",
+              "leaf": "80ea9144b80723a2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"ttt.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "80ea9144b80723a2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"TODO.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "80ea9144b80723a2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"test 3.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "80ea9144b80723a2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"qry1.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "80ea9144b80723a2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"aaa.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "80ea9144b80723a2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"[[aaa]].md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "80ea9144b80723a2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Tesis/Para-RO.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "80ea9144b80723a2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Roswell/Tickets.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "80ea9144b80723a2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Roswell/test.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "80ea9144b80723a2",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Roswell/standup 2022.5.27.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":27},\"to\":{\"line\":4,\"ch\":27}}}"
+              "eState": "{}"
+            },
+            {
+              "leaf": "80ea9144b80723a2",
+              "group": null,
+              "state": "{\"type\":\"excalidraw\",\"state\":{\"file\":\"Roswell/Draw.md\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "80ea9144b80723a2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Personal/test 233.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "80ea9144b80723a2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Personal/suma.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":3.2941175527756528}"
+            },
+            {
+              "leaf": "80ea9144b80723a2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Personal/NDE/Test note.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":14.344538151178208}"
+            },
+            {
+              "leaf": "80ea9144b80723a2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Personal/Daily/2022-06-03.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "80ea9144b80723a2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Personal/Daily/2022-05-27.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":10.480074555476147}"
+            },
+            {
+              "leaf": "80ea9144b80723a2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Roswell/Tickets.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "80ea9144b80723a2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Tesis/Para-RO.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "80ea9144b80723a2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"aaa.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "80ea9144b80723a2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Tesis/Para-RO.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
             }
           ]
         }
-      },
-      {
-        "id": "5e019bf9ccec6a13",
-        "type": "split",
-        "children": [
-          {
-            "id": "c21b45f618007756",
-            "type": "leaf",
-            "dimension": 30.973451327433626,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Roswell/test.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "leaf": "c21b45f618007756",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Roswell/test.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":4},\"to\":{\"line\":1,\"ch\":4}}}"
-                }
-              ]
-            }
-          },
-          {
-            "id": "cff17667c0cd866f",
-            "type": "leaf",
-            "dimension": 69.02654867256636,
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Roswell/Draw.md"
-              }
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "leaf": "cff17667c0cd866f",
-                  "group": null,
-                  "state": "{\"type\":\"excalidraw\",\"state\":{\"file\":\"Roswell/Draw.md\"}}",
-                  "eState": "{}"
-                }
-              ]
-            }
-          }
-        ],
-        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -155,7 +215,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Roswell/standup 2022.5.27.md",
+                "file": "ttt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,17 +270,17 @@
     "direction": "horizontal",
     "width": 338
   },
-  "active": "b718ce795d7d975c",
+  "active": "80ea9144b80723a2",
   "lastOpenFiles": [
-    "Roswell/standup 2022.5.27.md",
-    "Roswell/test.md",
-    "Roswell/Draw.md",
-    "Tickets.md",
-    "test 3.md",
-    "aaa.md",
+    "ttt.md",
     "TODO.md",
+    "test 3.md",
     "qry1.md",
-    "+.md",
-    "ttt.md"
+    "aaa.md",
+    "[[aaa]].md",
+    "Tesis/Para-RO.md",
+    "Roswell/Tickets.md",
+    "Roswell/test.md",
+    "Roswell/standup 2022.5.27.md"
   ]
 }
