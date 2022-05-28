@@ -8,5 +8,5 @@ tags: TODO
 | Time  | Task   |
 | ----- | ------ |
 | 19:30 | Daniel |
-|       |        |
+|    [[ttt]]   |        |
 

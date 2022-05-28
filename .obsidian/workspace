@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "74dbb8b498a6ff31",
+        "id": "65bad2a2faf3387b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "qry1.md",
+            "file": "TODO.md",
             "mode": "source",
-            "backlinks": false,
+            "backlinks": true,
             "source": false
           }
         }
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ttt",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -58,7 +58,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -79,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "qry1.md",
+                "file": "TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,14 +122,15 @@
       }
     ],
     "direction": "horizontal",
-    "width": 338
+    "width": 338,
+    "collapsed": true
   },
-  "active": "74dbb8b498a6ff31",
+  "active": "65bad2a2faf3387b",
   "lastOpenFiles": [
-    "qry1.md",
+    "TODO.md",
     "ttt.md",
     "test 3.md",
-    "TODO.md",
+    "qry1.md",
     "aaa.md",
     "Personal/NDE/Test note.md",
     "[[aaa]].md",
