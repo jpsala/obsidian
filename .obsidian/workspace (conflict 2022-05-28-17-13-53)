@@ -1,0 +1,116 @@
+{
+  "main": {
+    "id": "2193ab848e313310",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2013dc3321b1dc1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "asdfasdfasd.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9bdc8f9af1f4f0b9",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "d587c1eb083b4721",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "cfca6e829f23d582",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "db14029f5c9b046a",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "e0ab9fc1ff204ac0",
+        "type": "leaf",
+        "state": {
+          "type": "recent-files",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "ccb0d085f62a771b",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "dff2ba7e5d05af03",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "asdfasdfasd.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "44579f5ed3eedbee",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "a2013dc3321b1dc1",
+  "lastOpenFiles": [
+    "asdfasdfasd.md",
+    "asdfadsf.md",
+    "templater/ticket.md",
+    "hola.md",
+    "Untitled 3.md",
+    "templater/test1.md",
+    "TODO.md",
+    "hola3.md",
+    "Untitled 2.md",
+    "asdds.md"
+  ]
+}

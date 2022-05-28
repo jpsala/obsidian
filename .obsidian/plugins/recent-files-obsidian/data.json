@@ -1,18 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "hola3",
-      "path": "hola3.md"
-    },
-    {
-      "basename": "2022-05-27",
-      "path": "Personal/Daily/2022-05-27.md"
-    },
-    {
-      "basename": "Untitled 3",
-      "path": "Untitled 3.md"
-    },
-    {
       "basename": "asdfasdfasd",
       "path": "asdfasdfasd.md"
     },
@@ -21,20 +9,20 @@
       "path": "asdfadsf.md"
     },
     {
-      "basename": "ticket 1",
-      "path": "templates/ticket 1.md"
-    },
-    {
       "basename": "hola",
       "path": "hola.md"
     },
     {
-      "basename": "test1",
-      "path": "templates/test1.md"
+      "basename": "Untitled 3",
+      "path": "Untitled 3.md"
     },
     {
       "basename": "TODO",
       "path": "TODO.md"
+    },
+    {
+      "basename": "hola3",
+      "path": "hola3.md"
     },
     {
       "basename": "Untitled 2",
@@ -115,6 +103,10 @@
     {
       "basename": "2022-06-03",
       "path": "Personal/Daily/2022-06-03.md"
+    },
+    {
+      "basename": "2022-05-27",
+      "path": "Personal/Daily/2022-05-27.md"
     }
   ],
   "omittedPaths": [],
