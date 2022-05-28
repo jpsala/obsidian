@@ -5,16 +5,20 @@
       "path": "hola3.md"
     },
     {
+      "basename": "hola",
+      "path": "hola.md"
+    },
+    {
+      "basename": "asdfasdf",
+      "path": "asdfasdf.md"
+    },
+    {
       "basename": "asdfasdfasd",
       "path": "asdfasdfasd.md"
     },
     {
       "basename": "asdfadsf",
       "path": "asdfadsf.md"
-    },
-    {
-      "basename": "hola",
-      "path": "hola.md"
     },
     {
       "basename": "Untitled 3",
@@ -39,10 +43,6 @@
     {
       "basename": "Untitled",
       "path": "Untitled.md"
-    },
-    {
-      "basename": "asdfasdf",
-      "path": "asdfasdf.md"
     },
     {
       "basename": "ticket",

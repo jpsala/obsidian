@@ -22,6 +22,24 @@
               "leaf": "e94faba2f3c77b75",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"hola3.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "e94faba2f3c77b75",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"hola.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "e94faba2f3c77b75",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"asdfasdf.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "e94faba2f3c77b75",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"hola3.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
               "eState": "{\"scroll\":0}"
             },
             {
@@ -80,7 +98,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "projec",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,7 +136,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -196,14 +214,14 @@
   "active": "e94faba2f3c77b75",
   "lastOpenFiles": [
     "hola3.md",
+    "hola.md",
+    "asdfasdf.md",
     "Personal/Daily/2022-05-27.md",
     "Untitled 3.md",
     "asdfasdfasd.md",
     "asdfadsf.md",
     "templates/ticket 1.md",
-    "hola.md",
     "templates/test1.md",
-    "TODO.md",
-    "Untitled 2.md"
+    "TODO.md"
   ]
 }
