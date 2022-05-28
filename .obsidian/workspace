@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "be1858441cb1ec70",
+        "id": "22567ae8fc9ce889",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled 4.md",
+            "file": "Personal/suma.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -19,33 +19,39 @@
           "pos": 0,
           "stack": [
             {
-              "leaf": "be1858441cb1ec70",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Untitled 4.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "be1858441cb1ec70",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"hola1.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "be1858441cb1ec70",
+              "leaf": "22567ae8fc9ce889",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Personal/suma.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":14},\"to\":{\"line\":9,\"ch\":14}}}"
+            },
+            {
+              "leaf": "22567ae8fc9ce889",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Personal/NDE/Test note.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
+            },
+            {
+              "leaf": "22567ae8fc9ce889",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Personal/Daily/2022-06-03.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
               "eState": "{}"
             },
             {
-              "leaf": "be1858441cb1ec70",
+              "leaf": "22567ae8fc9ce889",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Roswell/standup 2022.5.27.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Personal/Daily/2022-05-27.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "22567ae8fc9ce889",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Tesis/Para-RO.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
               "eState": "{}"
             },
             {
-              "leaf": "be1858441cb1ec70",
+              "leaf": "22567ae8fc9ce889",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"aaa.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
             }
           ]
@@ -80,7 +86,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#ticket",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -117,8 +123,7 @@
               "stack": []
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -139,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 4.md",
+                "file": "Personal/suma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,19 +197,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246.1704559326172
+    "width": 246.1704559326172,
+    "collapsed": true
   },
-  "active": "be1858441cb1ec70",
+  "active": "22567ae8fc9ce889",
   "lastOpenFiles": [
+    "Personal/suma.md",
+    "Personal/NDE/Test note.md",
+    "Personal/Daily/2022-06-03.md",
+    "Personal/Daily/2022-05-27.md",
+    "Tesis/Para-RO.md",
     "Untitled 4.md",
     "hola1.md",
-    "Personal/suma.md",
     "Roswell/standup 2022.5.27.md",
     "aaa.md",
-    "hola3.md",
-    "hola.md",
-    "asdfasdf.md",
-    "Personal/Daily/2022-05-27.md",
-    "Untitled 3.md"
+    "hola3.md"
   ]
 }

@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Untitled 4",
-      "path": "Untitled 4.md"
+      "basename": "suma",
+      "path": "Personal/suma.md"
+    },
+    {
+      "basename": "Test note",
+      "path": "Personal/NDE/Test note.md"
+    },
+    {
+      "basename": "2022-06-03",
+      "path": "Personal/Daily/2022-06-03.md"
+    },
+    {
+      "basename": "2022-05-27",
+      "path": "Personal/Daily/2022-05-27.md"
+    },
+    {
+      "basename": "Para-RO",
+      "path": "Tesis/Para-RO.md"
     },
     {
       "basename": "hola1",
       "path": "hola1.md"
-    },
-    {
-      "basename": "suma",
-      "path": "Personal/suma.md"
     },
     {
       "basename": "standup 2022.5.27",
@@ -81,10 +93,6 @@
       "path": "[[aaa]].md"
     },
     {
-      "basename": "Para-RO",
-      "path": "Tesis/Para-RO.md"
-    },
-    {
       "basename": "Tickets",
       "path": "Roswell/Tickets.md"
     },
@@ -99,18 +107,6 @@
     {
       "basename": "test 233",
       "path": "Personal/test 233.md"
-    },
-    {
-      "basename": "Test note",
-      "path": "Personal/NDE/Test note.md"
-    },
-    {
-      "basename": "2022-06-03",
-      "path": "Personal/Daily/2022-06-03.md"
-    },
-    {
-      "basename": "2022-05-27",
-      "path": "Personal/Daily/2022-05-27.md"
     }
   ],
   "omittedPaths": [],

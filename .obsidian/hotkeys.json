@@ -2,17 +2,10 @@
   "app:toggle-left-sidebar": [
     {
       "modifiers": [
-        "Alt"
+        "Mod",
+        "Shift"
       ],
-      "key": "ArrowLeft"
-    }
-  ],
-  "app:toggle-right-sidebar": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "ArrowRight"
+      "key": "1"
     }
   ],
   "darlal-switcher-plus:switcher-plus:open": [
@@ -47,6 +40,34 @@
         "Shift"
       ],
       "key": "T"
+    }
+  ],
+  "app:delete-file": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "Delete"
+    }
+  ],
+  "file-explorer:open": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "E"
+    }
+  ],
+  "editor:focus-left": [],
+  "app:toggle-right-sidebar": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "2"
     }
   ]
 }
