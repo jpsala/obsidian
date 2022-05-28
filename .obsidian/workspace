@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Personal/suma.md",
+            "file": "Personal/NDE/Test note.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -21,8 +21,14 @@
             {
               "leaf": "22567ae8fc9ce889",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Personal/NDE/Test note.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "22567ae8fc9ce889",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Personal/suma.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":14},\"to\":{\"line\":9,\"ch\":14}}}"
+              "eState": "{}"
             },
             {
               "leaf": "22567ae8fc9ce889",
@@ -127,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 215.00078010559082,
-    "collapsed": true
+    "width": 215.00078010559082
   },
   "right": {
     "id": "6863e900ee850731",
@@ -144,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/suma.md",
+                "file": "Personal/NDE/Test note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,8 +207,8 @@
   },
   "active": "22567ae8fc9ce889",
   "lastOpenFiles": [
-    "Personal/suma.md",
     "Personal/NDE/Test note.md",
+    "Personal/suma.md",
     "Personal/Daily/2022-06-03.md",
     "Personal/Daily/2022-05-27.md",
     "Tesis/Para-RO.md",
