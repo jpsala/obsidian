@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Test note",
-      "path": "Personal/NDE/Test note.md"
+      "basename": "standup 2022.5.27",
+      "path": "Roswell/standup 2022.5.27.md"
     },
     {
       "basename": "suma",
       "path": "Personal/suma.md"
+    },
+    {
+      "basename": "Test note",
+      "path": "Personal/NDE/Test note.md"
+    },
+    {
+      "basename": "test 233",
+      "path": "Personal/test 233.md"
     },
     {
       "basename": "2022-06-03",
@@ -23,10 +31,6 @@
     {
       "basename": "hola1",
       "path": "hola1.md"
-    },
-    {
-      "basename": "standup 2022.5.27",
-      "path": "Roswell/standup 2022.5.27.md"
     },
     {
       "basename": "aaa",
@@ -103,10 +107,6 @@
     {
       "basename": "Draw",
       "path": "Roswell/Draw.md"
-    },
-    {
-      "basename": "test 233",
-      "path": "Personal/test 233.md"
     }
   ],
   "omittedPaths": [],

@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Personal/NDE/Test note.md",
-            "mode": "preview",
+            "file": "Personal/suma.md",
+            "mode": "source",
             "backlinks": true,
             "source": false
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/NDE/Test note.md",
+                "file": "Personal/suma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,15 +124,15 @@
   },
   "active": "996c8ea45d2da3fe",
   "lastOpenFiles": [
-    "Personal/NDE/Test note.md",
     "Personal/suma.md",
+    "Personal/NDE/Test note.md",
+    "Personal/test 233.md",
     "Personal/Daily/2022-06-03.md",
     "Personal/Daily/2022-05-27.md",
     "Tesis/Para-RO.md",
     "Untitled 4.md",
     "hola1.md",
     "Roswell/standup 2022.5.27.md",
-    "aaa.md",
-    "hola3.md"
+    "aaa.md"
   ]
 }
