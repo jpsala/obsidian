@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "TODO",
-      "path": "TODO.md"
+      "basename": "asdfasdfasd",
+      "path": "asdfasdfasd.md"
+    },
+    {
+      "basename": "asdfadsf",
+      "path": "asdfadsf.md"
+    },
+    {
+      "basename": "ticket",
+      "path": "templater/ticket.md"
+    },
+    {
+      "basename": "hola",
+      "path": "hola.md"
+    },
+    {
+      "basename": "Untitled 3",
+      "path": "Untitled 3.md"
     },
     {
       "basename": "test1",
       "path": "templater/test1.md"
+    },
+    {
+      "basename": "TODO",
+      "path": "TODO.md"
     },
     {
       "basename": "hola3",
@@ -15,14 +35,6 @@
     {
       "basename": "Untitled 2",
       "path": "Untitled 2.md"
-    },
-    {
-      "basename": "hola",
-      "path": "hola.md"
-    },
-    {
-      "basename": "ticket",
-      "path": "templater/ticket.md"
     },
     {
       "basename": "asdds",

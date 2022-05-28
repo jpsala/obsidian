@@ -1,6 +1,6 @@
 ---
 projectStatus: ended  
-tags: TODO
+tags: todo
 ---
 
 2022-06-03
