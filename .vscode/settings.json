@@ -1,0 +1,6 @@
+{
+  "files.exclude": {
+    ".obsidian": true,
+    ".lh": true
+  }
+}
