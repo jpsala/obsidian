@@ -1,1 +1,8 @@
-```dataviewTABLE projectStatusWHERE projectStatus = “inProgress”```
+```dataview TABLE projectStatus WHERE projectStatus = “inProgress”```
+
+```dataview 
+TABLE projectStatus where projectStatus != "-"
+```
+
+
+

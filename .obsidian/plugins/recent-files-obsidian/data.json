@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "qry1",
+      "path": "qry1.md"
+    },
+    {
       "basename": "ttt",
       "path": "ttt.md"
+    },
+    {
+      "basename": "test 3",
+      "path": "test 3.md"
     },
     {
       "basename": "TODO",
@@ -15,10 +23,6 @@
     {
       "basename": "Test note",
       "path": "Personal/NDE/Test note.md"
-    },
-    {
-      "basename": "test 3",
-      "path": "test 3.md"
     },
     {
       "basename": "[[aaa]]",

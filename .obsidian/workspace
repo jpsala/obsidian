@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ttt.md",
+            "file": "qry1.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ttt.md",
+                "file": "qry1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,15 +125,15 @@
   },
   "active": "74dbb8b498a6ff31",
   "lastOpenFiles": [
+    "qry1.md",
     "ttt.md",
+    "test 3.md",
     "TODO.md",
     "aaa.md",
     "Personal/NDE/Test note.md",
-    "test 3.md",
     "[[aaa]].md",
     "Tickets.md",
     "Tesis/Para-RO.md",
-    "Roswell/Draw.md",
-    "Roswell/standup 2022.5.27.md"
+    "Roswell/Draw.md"
   ]
 }
