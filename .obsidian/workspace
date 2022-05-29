@@ -40,7 +40,7 @@
               "type": "markdown",
               "state": {
                 "file": "Roswell/tickets/pending tickets.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -140,15 +140,14 @@
           }
         }
       }
-    ],
-    "currentTab": 0
+    ]
   },
   "active": "2075a732ec7becd9",
   "lastOpenFiles": [
     "Roswell/tickets/pending tickets.md",
     "new/Juliska.md",
-    "Roswell/tickets/JUL-222.md",
     "Tesis/Para-RO.md",
+    "Roswell/tickets/JUL-222.md",
     "templates/JUL-238.md",
     "Roswell/tickets/EVA-233.md",
     "templates/ticket.md",
