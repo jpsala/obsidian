@@ -16,13 +16,19 @@
           }
         },
         "pane-relief:history-v1": {
-          "pos": 0,
+          "pos": 1,
           "stack": [
             {
               "leaf": "49e323f475dbe609",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Roswell/tickets/JUL-222.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":16},\"to\":{\"line\":11,\"ch\":16}}}"
+            },
+            {
+              "leaf": "49e323f475dbe609",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Roswell/tickets/pending tickets.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"scroll\":0.3682539803641183}"
+              "eState": "{\"scroll\":0}"
             },
             {
               "leaf": "49e323f475dbe609",
@@ -183,10 +189,10 @@
   "active": "49e323f475dbe609",
   "lastOpenFiles": [
     "Roswell/tickets/pending tickets.md",
+    "Roswell/tickets/JUL-222.md",
     "new/Juliska.md",
     "templates/JUL-238.md",
     "Roswell/tickets/EVA-233.md",
-    "Roswell/tickets/JUL-222.md",
     "templates/ticket.md",
     "new/dataview.md",
     "new/Untitled.md",

@@ -5,6 +5,10 @@
       "path": "Roswell/tickets/pending tickets.md"
     },
     {
+      "basename": "JUL-222",
+      "path": "Roswell/tickets/JUL-222.md"
+    },
+    {
       "basename": "Juliska",
       "path": "new/Juliska.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "EVA-233",
       "path": "Roswell/tickets/EVA-233.md"
-    },
-    {
-      "basename": "JUL-222",
-      "path": "Roswell/tickets/JUL-222.md"
     },
     {
       "basename": "ticket",
