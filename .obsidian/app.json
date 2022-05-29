@@ -18,5 +18,7 @@
   "spellcheckDictionary": [
     "trenet"
   ],
-  "foldIndent": true
+  "foldIndent": true,
+  "readableLineLength": true,
+  "tabSize": 3
 }
