@@ -2,35 +2,31 @@
   "recentFiles": [
     {
       "basename": "pending tickets",
-      "path": "new/pending tickets.md"
+      "path": "Roswell/tickets/pending tickets.md"
     },
     {
-      "basename": "JUL-238",
-      "path": "templates/JUL-238.md"
+      "basename": "EVA-233",
+      "path": "Roswell/tickets/EVA-233.md"
+    },
+    {
+      "basename": "JUL-222",
+      "path": "Roswell/tickets/JUL-222.md"
     },
     {
       "basename": "ticket",
       "path": "templates/ticket.md"
     },
     {
-      "basename": "EVA-233",
-      "path": "new/EVA-233.md"
+      "basename": "JUL-238",
+      "path": "templates/JUL-238.md"
     },
     {
       "basename": "non billable",
       "path": "Roswell/tickets/non billable.md"
     },
     {
-      "basename": "JUL-222",
-      "path": "new/JUL-222.md"
-    },
-    {
       "basename": "Juliska",
       "path": "new/Juliska.md"
-    },
-    {
-      "basename": "dataview",
-      "path": "new/dataview.md"
     },
     {
       "basename": "dataview",
@@ -59,10 +55,6 @@
     {
       "basename": "Test note",
       "path": "Personal/NDE/Test note.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "new/Untitled.md"
     },
     {
       "basename": "2022-06-03",

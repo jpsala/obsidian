@@ -7,13 +7,8 @@ where status != "done"
 ``` dataviewjs
 	
 	let pages = dv.pages("#ticket or #ticket/non-billable")
-	dv.table(["file", "project", "name", "tags"], pages.map(row => {
-		if(row.project || true) {
-			return [row.file.link, row]
-		}
-		else {
-			return []
-		}
+	dv.table(["file", "project", "estimated", "difficulty"], pages.map(row => {
+		return [row.file.link, row.project, row.estimated, row.difficulty]
 	}))
 ```
 
