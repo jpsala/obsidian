@@ -9,6 +9,6 @@ tags: roswell-project
 - themes:: https://shop-juliska.myshopify.com/admin/themes?channel=true
 ```dataviewjs
 dv.table(['Project'], dv.pages('#ticket')
-	.where(r => r.project.contains('J'))
-	.map(r=>[r.project]))
+	.where(r=>r.name === 'juliska')
+	.map(r=>[r.name]))
 ```

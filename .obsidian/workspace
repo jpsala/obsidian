@@ -22,13 +22,25 @@
               "leaf": "897767a897f145a0",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"new/Juliska.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
               "leaf": "897767a897f145a0",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Roswell/tickets/pending tickets.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":0}"
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "897767a897f145a0",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"new/Juliska.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"scroll\":5.6344628924878}"
+            },
+            {
+              "leaf": "897767a897f145a0",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Roswell/tickets/pending tickets.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}},\"scroll\":0}"
             },
             {
               "leaf": "897767a897f145a0",
