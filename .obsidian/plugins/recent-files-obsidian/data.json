@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "ticket",
-      "path": "templates/ticket.md"
+      "basename": "JUL-222",
+      "path": "new/JUL-222.md"
     },
     {
       "basename": "JUL-238",
       "path": "templates/JUL-238.md"
+    },
+    {
+      "basename": "ticket",
+      "path": "templates/ticket.md"
     },
     {
       "basename": "pending tickets",

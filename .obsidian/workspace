@@ -69,7 +69,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "templates/ticket.md",
+            "file": "new/JUL-222.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -81,14 +81,14 @@
             {
               "leaf": "e618997286b46ce3",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"templates/ticket.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"new/JUL-222.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"scroll\":0}"
             },
             {
               "leaf": "e618997286b46ce3",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"templates/JUL-238.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":3},\"to\":{\"line\":7,\"ch\":3}},\"scroll\":0.7692307692307693}"
+              "eState": "{\"scroll\":0.7692307692307693}"
             }
           ]
         }
@@ -259,7 +259,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/ticket.md",
+                "file": "new/JUL-222.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -347,15 +347,15 @@
   },
   "active": "e618997286b46ce3",
   "lastOpenFiles": [
-    "templates/ticket.md",
+    "new/JUL-222.md",
     "templates/JUL-238.md",
+    "templates/ticket.md",
     "new/pending tickets.md",
     "Roswell/tickets/non billable.md",
     "new/Recording 20220529011950.webm.md",
     "new/attachments/Recording 20220529011950.webm",
     "new/Juliska.md",
     "new/dataview.md",
-    "Personal/Obsidian/plugins/dataview.md",
-    "personal/obsidian/links.md"
+    "Personal/Obsidian/plugins/dataview.md"
   ]
 }
