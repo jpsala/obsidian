@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "49e323f475dbe609",
+        "id": "80ea9144b80723a2",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -15,49 +15,16 @@
             "source": false
           }
         }
-      },
-      {
-        "id": "d0d319052ddc9f7d",
-        "type": "split",
-        "children": [
-          {
-            "id": "dab9f4e0721c8533",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tesis/Para-RO.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2075a732ec7becd9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Roswell/tickets/pending tickets.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          }
-        ],
-        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "d9f1ad1540e9179d",
+    "id": "7cb5c4e626ee45e4",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "99ec489e8530ec07",
+        "id": "8b7063dbdbaa4d24",
         "type": "leaf",
         "state": {
           "type": "recent-files",
@@ -65,7 +32,7 @@
         }
       },
       {
-        "id": "241f535664480297",
+        "id": "3e036b011131823b",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -73,7 +40,7 @@
         }
       },
       {
-        "id": "4509825e11251610",
+        "id": "46db4dc056a816aa",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -88,7 +55,7 @@
         }
       },
       {
-        "id": "3bf701ae49f0ecc1",
+        "id": "2415c319f8496bf1",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -102,11 +69,11 @@
     "currentTab": 0
   },
   "right": {
-    "id": "42c6d0ba7370fda1",
+    "id": "8d463d10dd7af995",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "44b194b10fa67388",
+        "id": "dbc7b070550215a1",
         "type": "leaf",
         "state": {
           "type": "calendar",
@@ -114,7 +81,7 @@
         }
       },
       {
-        "id": "7cd872dfbc4348e5",
+        "id": "33ee9f16cfba3ba8",
         "type": "leaf",
         "state": {
           "type": "backlink",
@@ -131,7 +98,7 @@
         }
       },
       {
-        "id": "d1644c7ef6f80ec4",
+        "id": "4d69aeda31d5b82d",
         "type": "leaf",
         "state": {
           "type": "outline",
@@ -140,16 +107,17 @@
           }
         }
       }
-    ]
+    ],
+    "currentTab": 0
   },
-  "active": "2075a732ec7becd9",
+  "active": "80ea9144b80723a2",
   "lastOpenFiles": [
     "Roswell/tickets/pending tickets.md",
+    "Tesis/Para-RO.md",
+    "templates/JUL-238.md",
     "new/Juliska.md",
     "Roswell/tickets/EVA-233.md",
-    "Tesis/Para-RO.md",
     "Roswell/tickets/JUL-222.md",
-    "templates/JUL-238.md",
     "templates/ticket.md",
     "new/dataview.md",
     "new/Untitled.md",
