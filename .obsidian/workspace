@@ -14,29 +14,6 @@
             "backlinks": false,
             "source": false
           }
-        },
-        "pane-relief:history-v1": {
-          "pos": 1,
-          "stack": [
-            {
-              "leaf": "49e323f475dbe609",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Roswell/tickets/JUL-222.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":16},\"to\":{\"line\":11,\"ch\":16}}}"
-            },
-            {
-              "leaf": "49e323f475dbe609",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Roswell/tickets/pending tickets.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":0},\"to\":{\"line\":20,\"ch\":0}},\"scroll\":0}"
-            },
-            {
-              "leaf": "49e323f475dbe609",
-              "group": null,
-              "state": "{\"type\":\"empty\",\"state\":{}}",
-              "eState": "{}"
-            }
-          ]
         }
       },
       {
@@ -49,22 +26,11 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/JUL-238.md",
+                "file": "Tesis/Para-RO.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "leaf": "dab9f4e0721c8533",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"templates/JUL-238.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":0}"
-                }
-              ]
             }
           },
           {
@@ -78,23 +44,6 @@
                 "backlinks": false,
                 "source": false
               }
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "leaf": "2075a732ec7becd9",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"new/Juliska.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "leaf": "2075a732ec7becd9",
-                  "group": null,
-                  "state": "{\"type\":\"empty\",\"state\":{}}",
-                  "eState": "{}"
-                }
-              ]
             }
           }
         ],
@@ -104,160 +53,107 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "e9f897cfb50dce29",
-    "type": "split",
+    "id": "d9f1ad1540e9179d",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "075aa338281157d9",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1a81c7fbd2d98a53",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            }
-          },
-          {
-            "id": "6b9627312fda95f6",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "/\\bv.*o\\b/",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            }
-          },
-          {
-            "id": "8ccff1d1fbc9cab3",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            }
-          }
-        ],
-        "currentTab": 1
-      }
-    ],
-    "direction": "horizontal",
-    "width": 215,
-    "collapsed": true
-  },
-  "right": {
-    "id": "6863e900ee850731",
-    "type": "split",
-    "children": [
-      {
-        "id": "33685b040d477175",
-        "type": "tabs",
-        "dimension": 42.78481012658228,
-        "children": [
-          {
-            "id": "131a82a89d58d39d",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "templates/JUL-238.md",
-                "collapseAll": true,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              }
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            }
-          },
-          {
-            "id": "e7e3fb7372c7a75d",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            }
-          },
-          {
-            "id": "a698d76aac0685e1",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            }
-          }
-        ]
+        "id": "99ec489e8530ec07",
+        "type": "leaf",
+        "state": {
+          "type": "recent-files",
+          "state": {}
+        }
       },
       {
-        "id": "53495f77fa120e5b",
-        "type": "tabs",
-        "dimension": 57.21518987341773,
-        "children": [
-          {
-            "id": "1e0bbb3ec24f9682",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "templates/JUL-238.md"
-              }
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            }
+        "id": "241f535664480297",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "4509825e11251610",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
+      },
+      {
+        "id": "3bf701ae49f0ecc1",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 281.6158447265625,
-    "collapsed": true
+    "currentTab": 0
   },
-  "active": "dab9f4e0721c8533",
+  "right": {
+    "id": "42c6d0ba7370fda1",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "44b194b10fa67388",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "7cd872dfbc4348e5",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "new/Juliska.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "d1644c7ef6f80ec4",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "new/Juliska.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "2075a732ec7becd9",
   "lastOpenFiles": [
-    "templates/JUL-238.md",
     "new/Juliska.md",
+    "Tesis/Para-RO.md",
+    "templates/JUL-238.md",
     "Roswell/tickets/pending tickets.md",
     "Roswell/tickets/JUL-222.md",
     "Roswell/tickets/EVA-233.md",
     "templates/ticket.md",
     "new/dataview.md",
     "new/Untitled.md",
-    "Roswell/tickets/non billable.md",
-    "new/Recording 20220529011950.webm.md"
+    "Roswell/tickets/non billable.md"
   ]
 }
