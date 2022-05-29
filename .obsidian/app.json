@@ -17,5 +17,6 @@
   "attachmentFolderPath": "/new/attachments",
   "spellcheckDictionary": [
     "trenet"
-  ]
+  ],
+  "foldIndent": true
 }

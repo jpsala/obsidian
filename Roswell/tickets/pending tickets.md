@@ -1,4 +1,6 @@
-## Pending ticket
+## Pending tickets
+---
+
 ``` dataviewjs
 	
 	let pages = dv.pages('#ticket and -#ticket/non-billable and !"templates/ticket.md"')
@@ -7,7 +9,14 @@
 	}))
 ```
 
-```js dataviewjs
+> [!NOTE] Title
+> Contents
+
+
+### uno
+	
+
+```dataviewjs
 require("child_process").exec("ls",(_0,stdout,_1) => 
 	{
 		const out = stdout.split('\n')
