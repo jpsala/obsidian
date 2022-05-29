@@ -7,10 +7,10 @@
 	
 	let pages = dv.pages('#ticket and -#ticket/non-billable and !"templates/ticket.md"')
 	
-	dv.el('div', pages)
+	//dv.el('div', pages)
 	
-	dv.table(["file", "project", "estimated", "difficulty", "other"],pages.map(row=> {
-		return [row.file.link, row.project, row.estimated, row.difficulty,"akdsfdh"]
+	dv.table(["file", "project", "estimated", "difficulty"],pages.map(row=> {
+		return [row.file.link, row.project, row.estimated, row.difficulty]
 	}
 ))
 ```

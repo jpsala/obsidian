@@ -45,7 +45,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "tag:#ticket",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -66,7 +66,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 2
   },
   "right": {
     "id": "8d463d10dd7af995",
@@ -113,9 +113,9 @@
   "active": "80ea9144b80723a2",
   "lastOpenFiles": [
     "Roswell/tickets/pending tickets.md",
+    "new/Juliska.md",
     "Tesis/Para-RO.md",
     "templates/JUL-238.md",
-    "new/Juliska.md",
     "Roswell/tickets/EVA-233.md",
     "Roswell/tickets/JUL-222.md",
     "templates/ticket.md",
