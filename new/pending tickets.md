@@ -32,8 +32,9 @@ dv.span(CoolString.coolify('hola'))
 require("child_process").exec("ls",(_0,stdout,_1) => 
 	{
 		const out = stdout.split('\n')
-		out.forEach(r => dv.span(r))
+		out.forEach(r => dv.el('div', r))
 	}
 )
 ```
+`$= dv.current().file.mtime`
 
