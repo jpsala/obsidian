@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "dataview",
+      "path": "Personal/Obsidian/plugins/dataview.md"
+    },
+    {
       "basename": "standup 2022.5.27",
       "path": "Roswell/Standups/standup 2022.5.27.md"
     },
@@ -11,14 +15,6 @@
     {
       "basename": "suma",
       "path": "Personal/suma.md"
-    },
-    {
-      "basename": "obsidian",
-      "path": "Personal/obsidian.md"
-    },
-    {
-      "basename": "obsidian",
-      "path": "personal/obsidian.md"
     },
     {
       "basename": "ticket",

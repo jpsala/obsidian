@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "44b26e985a67dd84",
+        "id": "a8e9c4b1cdb18304",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Roswell/Standups/standup 2022.5.27.md",
+            "file": "Personal/Obsidian/plugins/dataview.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Roswell/Standups/standup 2022.5.27.md",
+                "file": "Personal/Obsidian/plugins/dataview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,17 +121,17 @@
     "direction": "horizontal",
     "width": 246.1704559326172
   },
-  "active": "44b26e985a67dd84",
+  "active": "a8e9c4b1cdb18304",
   "lastOpenFiles": [
+    "Personal/Obsidian/plugins/dataview.md",
+    "personal/Obsician/plugins/dataview.md",
+    "Personal/obsidian.md",
     "Roswell/Standups/standup 2022.5.27.md",
     "Roswell/Draw.md",
     "Roswell/tickets/non billable.md",
     "Personal/suma.md",
-    "Personal/obsidian.md",
     "personal/obsidian.md",
     "templates/ticket.md",
-    "Tesis/Para-RO.md",
-    "Personal/NDE/Test note.md",
-    "new/Untitled.md"
+    "Tesis/Para-RO.md"
   ]
 }
