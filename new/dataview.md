@@ -1,3 +1,4 @@
 ```dataview
-table authors 
+table difficulty
+from #ticket 
 ```

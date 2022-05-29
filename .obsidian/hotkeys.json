@@ -96,5 +96,15 @@
       "key": "D"
     }
   ],
-  "obsidian-editor-shortcuts:duplicateLine": []
+  "obsidian-editor-shortcuts:duplicateLine": [],
+  "editor:toggle-checklist-status": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "Enter"
+    }
+  ],
+  "obsidian-editor-shortcuts:insertLineAbove": []
 }
