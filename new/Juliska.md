@@ -8,5 +8,7 @@ tags: roswell-project
 - URL: https://www.juliska.com/
 - themes:: https://shop-juliska.myshopify.com/admin/themes?channel=true
 ```dataviewjs
-dv.list(dv.pages('#ticket'))
+dv.table(['Project'], dv.pages('#ticket')
+	.where(r => r.project.contains('J'))
+	.map(r=>[r.project]))
 ```
