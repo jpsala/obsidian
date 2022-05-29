@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "personal/obsidian/links.md",
+            "file": "Personal/Obsidian/plugins/dataview.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/obsidian/links.md",
+                "file": "Personal/Obsidian/plugins/dataview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,8 +123,8 @@
   },
   "active": "a8e9c4b1cdb18304",
   "lastOpenFiles": [
-    "personal/obsidian/links.md",
     "Personal/Obsidian/plugins/dataview.md",
+    "personal/obsidian/links.md",
     "personal/Obsician/plugins/dataview.md",
     "Personal/obsidian.md",
     "Roswell/Standups/standup 2022.5.27.md",
