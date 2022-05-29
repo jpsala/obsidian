@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Roswell/tickets/pending tickets.md",
+            "file": "new/Juliska.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -21,8 +21,14 @@
             {
               "leaf": "897767a897f145a0",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"new/Juliska.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "897767a897f145a0",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Roswell/tickets/pending tickets.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":0}"
             },
             {
               "leaf": "897767a897f145a0",
@@ -62,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#ticket",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,11 +93,13 @@
               "stack": []
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 215
+    "width": 215,
+    "collapsed": true
   },
   "right": {
     "id": "6863e900ee850731",
@@ -100,6 +108,7 @@
       {
         "id": "33685b040d477175",
         "type": "tabs",
+        "dimension": 99.99999999999999,
         "children": [
           {
             "id": "131a82a89d58d39d",
@@ -107,8 +116,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Roswell/tickets/pending tickets.md",
-                "collapseAll": false,
+                "file": "new/Juliska.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -133,14 +142,7 @@
               "pos": 0,
               "stack": []
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "33504e74fda1bc4b",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "a698d76aac0685e1",
             "type": "leaf",
@@ -157,53 +159,22 @@
             }
           }
         ]
-      },
-      {
-        "id": "c7f88e6b0fdf2374",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d876bbcd92da94c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "new/Juliska.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "leaf": "d876bbcd92da94c3",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"new/Juliska.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
-                }
-              ]
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 281.6158447265625,
-    "collapsed": true
+    "width": 281.6158447265625
   },
   "active": "897767a897f145a0",
   "lastOpenFiles": [
+    "new/Juliska.md",
     "Roswell/tickets/pending tickets.md",
+    "templates/JUL-238.md",
     "Roswell/tickets/EVA-233.md",
     "Roswell/tickets/JUL-222.md",
     "templates/ticket.md",
     "new/dataview.md",
     "new/Untitled.md",
-    "templates/JUL-238.md",
     "Roswell/tickets/non billable.md",
-    "new/Recording 20220529011950.webm.md",
-    "new/attachments/Recording 20220529011950.webm"
+    "new/Recording 20220529011950.webm.md"
   ]
 }

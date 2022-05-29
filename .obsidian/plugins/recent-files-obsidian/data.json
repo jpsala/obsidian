@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Juliska",
+      "path": "new/Juliska.md"
+    },
+    {
       "basename": "pending tickets",
       "path": "Roswell/tickets/pending tickets.md"
+    },
+    {
+      "basename": "JUL-238",
+      "path": "templates/JUL-238.md"
     },
     {
       "basename": "EVA-233",
@@ -17,16 +25,8 @@
       "path": "templates/ticket.md"
     },
     {
-      "basename": "JUL-238",
-      "path": "templates/JUL-238.md"
-    },
-    {
       "basename": "non billable",
       "path": "Roswell/tickets/non billable.md"
-    },
-    {
-      "basename": "Juliska",
-      "path": "new/Juliska.md"
     },
     {
       "basename": "dataview",

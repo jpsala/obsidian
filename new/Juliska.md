@@ -7,3 +7,6 @@ tags: roswell-project
 
 - URL: https://www.juliska.com/
 - themes:: https://shop-juliska.myshopify.com/admin/themes?channel=true
+```dataviewjs
+dv.list(dv.pages('#ticket'))
+```

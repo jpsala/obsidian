@@ -1,14 +1,8 @@
-```dataview
-table project, name, estimated, difficulty, status
-from #ticket and -#ticket/non-billable and -'/templates/ticket'
-where status != "done"
-```
-
 ``` dataviewjs
 	
 	let pages = dv.pages('#ticket and -#ticket/non-billable and !"templates/ticket.md"')
 	dv.table(["file", "project", "estimated", "difficulty"], pages.map(row => {
-		return [row.file.path, row.project, row.estimated, row.difficulty]
+		return [row.file.link, row.project, row.estimated, row.difficulty]
 	}))
 ```
 
