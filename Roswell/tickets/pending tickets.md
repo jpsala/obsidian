@@ -2,7 +2,8 @@
 ---
 
 ## lista
-```dataviewjs
+
+``` dataviewjs
 	
 	let pages = dv.pages('#ticket and -#ticket/non-billable and !"templates/ticket.md"')
 	dv.el('div', pages)
@@ -12,8 +13,8 @@
 	}
 ))
 ```
-
 > [!NOTE] Title
+
 > Contents
 
 1. hola
