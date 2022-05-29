@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "super",
-      "path": "templates/super.md"
+      "basename": "ticket 1",
+      "path": "templates/ticket 1.md"
+    },
+    {
+      "basename": "dataview",
+      "path": "new/dataview.md"
+    },
+    {
+      "basename": "links",
+      "path": "personal/obsidian/links.md"
     },
     {
       "basename": "dataview",
       "path": "Personal/Obsidian/plugins/dataview.md"
     },
     {
-      "basename": "links",
-      "path": "personal/obsidian/links.md"
+      "basename": "super",
+      "path": "templates/super.md"
     },
     {
       "basename": "standup 2022.5.27",

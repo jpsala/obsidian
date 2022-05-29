@@ -1,5 +1,5 @@
 ---
-authors:["test1", "test2"] 
+authors: ["test1", "test2"] 
 ---
 # Dataview session, Part 1
 ***
