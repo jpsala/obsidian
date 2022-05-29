@@ -33,7 +33,7 @@
                   "leaf": "304356843c82bb40",
                   "group": null,
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"new/pending tickets.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":14},\"to\":{\"line\":11,\"ch\":14}},\"scroll\":0}"
+                  "eState": "{\"scroll\":0}"
                 },
                 {
                   "leaf": "304356843c82bb40",
@@ -70,7 +70,7 @@
                   "leaf": "80ea9144b80723a2",
                   "group": null,
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Roswell/tickets/non billable.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":25},\"to\":{\"line\":2,\"ch\":25}}}"
+                  "eState": "{}"
                 },
                 {
                   "leaf": "80ea9144b80723a2",
@@ -109,7 +109,7 @@
               "leaf": "a08710f3232ab45b",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"templates/JUL-238.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":8},\"to\":{\"line\":16,\"ch\":8}},\"scroll\":0}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":9},\"to\":{\"line\":4,\"ch\":9}},\"scroll\":0}"
             },
             {
               "leaf": "a08710f3232ab45b",
@@ -198,13 +198,11 @@
               "stack": []
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 215,
-    "collapsed": true
+    "width": 215
   },
   "right": {
     "id": "6863e900ee850731",
