@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Personal/Obsidian/plugins/dataview.md",
+            "file": "new/super.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Obsidian/plugins/dataview.md",
+                "file": "new/super.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,6 +123,7 @@
   },
   "active": "a8e9c4b1cdb18304",
   "lastOpenFiles": [
+    "new/super.md",
     "Personal/Obsidian/plugins/dataview.md",
     "personal/obsidian/links.md",
     "personal/Obsician/plugins/dataview.md",
@@ -131,7 +132,6 @@
     "Roswell/Draw.md",
     "Roswell/tickets/non billable.md",
     "Personal/suma.md",
-    "personal/obsidian.md",
-    "templates/ticket.md"
+    "personal/obsidian.md"
   ]
 }

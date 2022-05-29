@@ -9,5 +9,6 @@ authors:["test1", "test2"]
 ***
 
 
-```data
+```dataview
+task from #important    
 ```

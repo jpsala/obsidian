@@ -69,5 +69,22 @@
       ],
       "key": "2"
     }
+  ],
+  "obsidian-languagetool-plugin:ltcheck-text": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "S"
+    }
+  ],
+  "obsidian-languagetool-plugin:ltautocheck-text": [
+    {
+      "modifiers": [
+        "Alt",
+        "Meta"
+      ],
+      "key": "S"
+    }
   ]
 }
