@@ -1,6 +1,6 @@
-## Pending tickets
+# Pending tickets
 ---
-
+## lista
 ``` dataviewjs
 	
 	let pages = dv.pages('#ticket and -#ticket/non-billable and !"templates/ticket.md"')
@@ -12,10 +12,23 @@
 > [!NOTE] Title
 > Contents
 
+1. hola
+	1. 33
+	2. 44
+2. 222
+	1. 2222
 
+3. chau
+	1. chau 2
+	2. chau3
+		1. eee
 ### uno
-	
+	1
+	2
+	3
 
+
+## lista 2
 ```dataviewjs
 require("child_process").exec("ls",(_0,stdout,_1) => 
 	{

@@ -22,7 +22,7 @@
               "leaf": "49e323f475dbe609",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Roswell/tickets/pending tickets.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "eState": "{\"scroll\":0.3682539803641183}"
             },
             {
               "leaf": "49e323f475dbe609",
@@ -102,7 +102,7 @@
       {
         "id": "33685b040d477175",
         "type": "tabs",
-        "dimension": 99.99999999999999,
+        "dimension": 42.78481012658228,
         "children": [
           {
             "id": "131a82a89d58d39d",
@@ -153,10 +153,32 @@
             }
           }
         ]
+      },
+      {
+        "id": "53495f77fa120e5b",
+        "type": "tabs",
+        "dimension": 57.21518987341773,
+        "children": [
+          {
+            "id": "1e0bbb3ec24f9682",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Roswell/tickets/pending tickets.md"
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 281.6158447265625
+    "width": 281.6158447265625,
+    "collapsed": true
   },
   "active": "49e323f475dbe609",
   "lastOpenFiles": [
