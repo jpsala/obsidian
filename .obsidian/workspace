@@ -33,7 +33,7 @@
                   "leaf": "304356843c82bb40",
                   "group": null,
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"new/pending tickets.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":28,\"ch\":3},\"to\":{\"line\":27,\"ch\":0}},\"scroll\":18.414200229199068}"
+                  "eState": "{\"scroll\":22.346397930811577}"
                 },
                 {
                   "leaf": "304356843c82bb40",
@@ -109,7 +109,7 @@
               "leaf": "a08710f3232ab45b",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"templates/JUL-238.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":8},\"to\":{\"line\":16,\"ch\":8}}}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":0},\"to\":{\"line\":18,\"ch\":0}}}"
             },
             {
               "leaf": "a08710f3232ab45b",
@@ -218,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/JUL-238.md",
+                "file": "new/pending tickets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -304,10 +304,10 @@
     "width": 281.6158447265625,
     "collapsed": true
   },
-  "active": "a08710f3232ab45b",
+  "active": "304356843c82bb40",
   "lastOpenFiles": [
-    "templates/JUL-238.md",
     "new/pending tickets.md",
+    "templates/JUL-238.md",
     "Roswell/tickets/non billable.md",
     "new/Juliska.md",
     "templates/ticket.md",

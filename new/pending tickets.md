@@ -26,5 +26,9 @@ dv.list(dv.pages().file.name.map(n => CoolString.coolify(n)))
 
 ```dataviewjs
 const {CoolString} = customJS
-dv.
+dv.span(CoolString.coolify('hola'))
 ```
+```dataviewjs
+require("child_process").exec("ls",(_0,stdout,_1) => dv.span(stdout.replace('\n','')));""
+```
+
