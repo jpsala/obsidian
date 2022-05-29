@@ -5,14 +5,14 @@ where status != "done"
 ```
 ``` dataviewjs
 	
-	let pages = dv.pages("#ticket")
+	let pages = dv.pages("#ticket and -#aaa")
 	dv.table(["project", "name"], pages.map(row => {
 		if(row.project) {
 			console.log('row', row.project)
-			return [row.project, row.name]
+			return [row.project, row.name, row.file.tags]
 		}
 		else {
-			dv.el("b", "This is some bold text");
+			dv.el("b", "This is some bold text", "tags");
 			return ["nada", "nada"]
 		}
 	}))

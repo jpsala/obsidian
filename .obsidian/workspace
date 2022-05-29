@@ -4,91 +4,64 @@
     "type": "split",
     "children": [
       {
-        "id": "2dbbb784de4615b3",
-        "type": "split",
-        "children": [
-          {
-            "id": "304356843c82bb40",
-            "type": "leaf",
-            "dimension": 61.83908045977012,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "new/Recording 20220529011950.webm.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "leaf": "304356843c82bb40",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"new/Recording 20220529011950.webm.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "leaf": "304356843c82bb40",
-                  "group": null,
-                  "state": "{\"type\":\"video\",\"state\":{\"file\":\"new/attachments/Recording 20220529011950.webm\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "304356843c82bb40",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"new/pending tickets.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":19.575772889212686}"
-                },
-                {
-                  "leaf": "304356843c82bb40",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"templates/ticket.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":10},\"to\":{\"line\":5,\"ch\":10}}}"
-                }
-              ]
-            }
-          },
-          {
-            "id": "80ea9144b80723a2",
-            "type": "leaf",
-            "dimension": 38.160919540229884,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Roswell/tickets/non billable.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            },
-            "pane-relief:history-v1": {
-              "pos": 1,
-              "stack": [
-                {
-                  "leaf": "80ea9144b80723a2",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"templates/JUL-238.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "80ea9144b80723a2",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Roswell/tickets/non billable.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "leaf": "80ea9144b80723a2",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"new/dataview.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":0}"
-                }
-              ]
-            }
+        "id": "80ea9144b80723a2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "templates/JUL-238.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
           }
-        ],
-        "direction": "horizontal"
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "80ea9144b80723a2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"templates/JUL-238.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "80ea9144b80723a2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Roswell/tickets/non billable.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "80ea9144b80723a2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"new/dataview.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"scroll\":0}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "e0db1ab9a96b9d37",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "new/pending tickets.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "e0db1ab9a96b9d37",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"new/pending tickets.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+            }
+          ]
+        }
       },
       {
         "id": "a08710f3232ab45b",
@@ -115,7 +88,7 @@
               "leaf": "a08710f3232ab45b",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"templates/JUL-238.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}}}"
             },
             {
               "leaf": "a08710f3232ab45b",
@@ -224,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "new/Recording 20220529011950.webm.md",
+                "file": "new/pending tickets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -310,13 +283,13 @@
     "width": 281.6158447265625,
     "collapsed": true
   },
-  "active": "304356843c82bb40",
+  "active": "e0db1ab9a96b9d37",
   "lastOpenFiles": [
-    "new/Recording 20220529011950.webm.md",
-    "new/attachments/Recording 20220529011950.webm",
     "new/pending tickets.md",
     "templates/JUL-238.md",
     "Roswell/tickets/non billable.md",
+    "new/Recording 20220529011950.webm.md",
+    "new/attachments/Recording 20220529011950.webm",
     "new/Juliska.md",
     "templates/ticket.md",
     "new/dataview.md",
