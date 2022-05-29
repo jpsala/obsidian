@@ -9,6 +9,10 @@
       "path": "new/Juliska.md"
     },
     {
+      "basename": "EVA-233",
+      "path": "Roswell/tickets/EVA-233.md"
+    },
+    {
       "basename": "Para-RO",
       "path": "Tesis/Para-RO.md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "JUL-238",
       "path": "templates/JUL-238.md"
-    },
-    {
-      "basename": "EVA-233",
-      "path": "Roswell/tickets/EVA-233.md"
     },
     {
       "basename": "ticket",

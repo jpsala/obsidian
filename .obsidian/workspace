@@ -40,7 +40,7 @@
               "type": "markdown",
               "state": {
                 "file": "Roswell/tickets/pending tickets.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -146,10 +146,10 @@
   "lastOpenFiles": [
     "Roswell/tickets/pending tickets.md",
     "new/Juliska.md",
+    "Roswell/tickets/EVA-233.md",
     "Tesis/Para-RO.md",
     "Roswell/tickets/JUL-222.md",
     "templates/JUL-238.md",
-    "Roswell/tickets/EVA-233.md",
     "templates/ticket.md",
     "new/dataview.md",
     "new/Untitled.md",
