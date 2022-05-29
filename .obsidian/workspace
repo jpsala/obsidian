@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "new/Juliska.md",
+                "file": "Roswell/tickets/pending tickets.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -119,7 +119,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "new/Juliska.md",
+            "file": "Roswell/tickets/pending tickets.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "new/Juliska.md"
+            "file": "Roswell/tickets/pending tickets.md"
           }
         }
       }
@@ -145,10 +145,10 @@
   },
   "active": "2075a732ec7becd9",
   "lastOpenFiles": [
+    "Roswell/tickets/pending tickets.md",
     "new/Juliska.md",
     "Tesis/Para-RO.md",
     "templates/JUL-238.md",
-    "Roswell/tickets/pending tickets.md",
     "Roswell/tickets/JUL-222.md",
     "Roswell/tickets/EVA-233.md",
     "templates/ticket.md",
