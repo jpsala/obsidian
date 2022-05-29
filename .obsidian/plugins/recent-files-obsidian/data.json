@@ -5,12 +5,12 @@
       "path": "new/pending tickets.md"
     },
     {
-      "basename": "non billable",
-      "path": "Roswell/tickets/non billable.md"
-    },
-    {
       "basename": "JUL-238",
       "path": "templates/JUL-238.md"
+    },
+    {
+      "basename": "non billable",
+      "path": "Roswell/tickets/non billable.md"
     },
     {
       "basename": "Juliska",

@@ -17,3 +17,14 @@ where status != "done"
 		}
 	}))
 ```
+
+// dataviewjs block in *.md
+```dataviewjs
+const {CoolString} = customJS
+dv.list(dv.pages().file.name.map(n => CoolString.coolify(n)))
+```
+
+```dataviewjs
+const {CoolString} = customJS
+dv.
+```
