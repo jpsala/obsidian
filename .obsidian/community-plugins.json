@@ -17,5 +17,6 @@
   "obsidian-core-search-assistant-plugin",
   "obsidian-editor-shortcuts",
   "pane-relief",
-  "customjs"
+  "customjs",
+  "maximise-active-pane-obsidian"
 ]

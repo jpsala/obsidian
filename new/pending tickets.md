@@ -28,7 +28,7 @@ dv.list(dv.pages().file.name.map(n => CoolString.coolify(n)))
 const {CoolString} = customJS
 dv.span(CoolString.coolify('hola'))
 ```
-```dataviewjs
+```js dataviewjs
 require("child_process").exec("ls",(_0,stdout,_1) => 
 	{
 		const out = stdout.split('\n')
@@ -39,4 +39,8 @@ require("child_process").exec("ls",(_0,stdout,_1) =>
 ```dataviewjs
 	let date = dv.current().file.mtime
 	dv.span(date)
+```
+```dataviewjs
+let pages = dv.pages('#ticket')
+dv.view('js/views/test1', {dv, pages})
 ```
