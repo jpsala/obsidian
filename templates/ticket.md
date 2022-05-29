@@ -1,15 +1,20 @@
----
-tags: ticket
-project: 
-status: pending
-creation date: #{{date}} 
-modification date: #{{date}}
-project:
-difficulty: 🔴
-estimated:
----
-### ticket
-#{{date:YYYY-MM-DD}}
+```dataviewjs
+	dv.span(`### ${dv.current().file.name}`)
+```
 
+
+
+---
+<mark class="yellow">metadata</mark>
+
+name:: `$= dv.current().file.name`
+project: [[]] 
+status: pending
+last modified: `$= dv.current().file.mtime`
+creation date: `$= dv.current().file.ctime`
+difficulty: 🔴
+estimated: 
+
+#ticket
 
 

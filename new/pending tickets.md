@@ -1,6 +1,6 @@
 ```dataview
 table project, name, estimated, difficulty, status
-from #ticket and -#ticket/non-billable
+from #ticket and -#ticket/non-billable and -'/templates/ticket'
 where status != "done"
 ```
 
@@ -8,11 +8,10 @@ where status != "done"
 	
 	let pages = dv.pages("#ticket or #ticket/non-billable")
 	dv.table(["file", "project", "name", "tags"], pages.map(row => {
-		if(row.project) {
-			return [row.file.link, row.project, row.name, row.file.tags.join(',')]
+		if(row.project || true) {
+			return [row.file.link, row]
 		}
 		else {
-			dv.el("b", "This is some bold text", "tags");
 			return []
 		}
 	}))
