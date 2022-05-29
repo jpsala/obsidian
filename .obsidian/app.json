@@ -14,5 +14,8 @@
   "defaultViewMode": "source",
   "newFileLocation": "folder",
   "newFileFolderPath": "new",
-  "attachmentFolderPath": "/new/attachments"
+  "attachmentFolderPath": "/new/attachments",
+  "spellcheckDictionary": [
+    "trenet"
+  ]
 }

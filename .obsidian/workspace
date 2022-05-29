@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "a8e9c4b1cdb18304",
+        "id": "aa65b24d666d745e",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "new/super.md",
+            "file": "templates/super.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "new/super.md",
+                "file": "templates/super.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,9 +121,10 @@
     "direction": "horizontal",
     "width": 246.1704559326172
   },
-  "active": "a8e9c4b1cdb18304",
+  "active": "aa65b24d666d745e",
   "lastOpenFiles": [
-    "new/super.md",
+    "templates/super.md",
+    "new/Untitled 1.md",
     "Personal/Obsidian/plugins/dataview.md",
     "personal/obsidian/links.md",
     "personal/Obsician/plugins/dataview.md",
@@ -131,7 +132,6 @@
     "Roswell/Standups/standup 2022.5.27.md",
     "Roswell/Draw.md",
     "Roswell/tickets/non billable.md",
-    "Personal/suma.md",
-    "personal/obsidian.md"
+    "Personal/suma.md"
   ]
 }

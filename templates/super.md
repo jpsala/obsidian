@@ -1,17 +1,21 @@
-#### Verdura
+# Lista Super 
+##### Verdura
 - [ ] papa
-- [x] batata
-- [x] zanahoria
+- [ ] batata
+- [ ] zanahoria
 - [ ] zapallo
 - [ ] zapallito
 - [ ] tomate
 
-#### Fruta
+##### Fruta
 - [ ] manzana
 - [ ] naranja
 - [ ] banana
 - [ ] pomelo
 
-Limpieza
+##### Limpieza
 - [ ] detergente
-- [ ] 
+- [ ] trenet
+- [ ] detergente lavarropa
+
+
