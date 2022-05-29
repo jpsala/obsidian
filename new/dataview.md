@@ -1,4 +1,4 @@
 ```dataview
-table estimated, status 
+table name, estimated, status, difficulty 
 from #ticket 
 ```

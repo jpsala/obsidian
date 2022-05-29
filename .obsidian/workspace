@@ -6,7 +6,7 @@
       {
         "id": "80ea9144b80723a2",
         "type": "leaf",
-        "dimension": 59.5413241021203,
+        "dimension": 33.318161128812015,
         "state": {
           "type": "markdown",
           "state": {
@@ -15,12 +15,23 @@
             "backlinks": false,
             "source": false
           }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "80ea9144b80723a2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"new/dataview.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
+            }
+          ]
         }
       },
       {
         "id": "5cc869eed9b41eef",
         "type": "leaf",
-        "dimension": 40.45867589787971,
+        "dimension": 29.039599453800633,
         "state": {
           "type": "markdown",
           "state": {
@@ -29,6 +40,42 @@
             "backlinks": false,
             "source": false
           }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "5cc869eed9b41eef",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"templates/ticket 1.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":14},\"to\":{\"line\":13,\"ch\":14}}}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "d876bbcd92da94c3",
+        "type": "leaf",
+        "dimension": 37.642239417387344,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "new/Juliska.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "d876bbcd92da94c3",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"new/Juliska.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":11},\"to\":{\"line\":8,\"ch\":11}}}"
+            }
+          ]
         }
       }
     ],
@@ -48,6 +95,10 @@
             "state": {
               "type": "file-explorer",
               "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           },
           {
@@ -63,6 +114,10 @@
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           },
           {
@@ -71,6 +126,10 @@
             "state": {
               "type": "recent-files",
               "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           }
         ]
@@ -103,6 +162,10 @@
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           },
           {
@@ -111,6 +174,10 @@
             "state": {
               "type": "calendar",
               "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           }
         ],
@@ -129,6 +196,10 @@
                 "sortOrder": "frequency",
                 "useHierarchy": true
               }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           }
         ]
@@ -141,6 +212,7 @@
   "active": "80ea9144b80723a2",
   "lastOpenFiles": [
     "new/dataview.md",
+    "new/Juliska.md",
     "templates/ticket 1.md",
     "Personal/Obsidian/plugins/dataview.md",
     "personal/obsidian/links.md",
@@ -148,7 +220,6 @@
     "personal/Obsician/plugins/dataview.md",
     "Personal/obsidian.md",
     "Roswell/Standups/standup 2022.5.27.md",
-    "Roswell/Draw.md",
-    "Roswell/tickets/non billable.md"
+    "Roswell/Draw.md"
   ]
 }
