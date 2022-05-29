@@ -6,6 +6,21 @@
       {
         "id": "80ea9144b80723a2",
         "type": "leaf",
+        "dimension": 59.5413241021203,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "new/dataview.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "5cc869eed9b41eef",
+        "type": "leaf",
+        "dimension": 40.45867589787971,
         "state": {
           "type": "markdown",
           "state": {
@@ -62,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 215
+    "width": 215,
+    "collapsed": true
   },
   "right": {
     "id": "6863e900ee850731",
@@ -78,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/ticket 1.md",
+                "file": "new/dataview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,14 +135,15 @@
       }
     ],
     "direction": "horizontal",
-    "width": 338
+    "width": 338,
+    "collapsed": true
   },
   "active": "80ea9144b80723a2",
   "lastOpenFiles": [
-    "templates/ticket 1.md",
     "new/dataview.md",
-    "personal/obsidian/links.md",
+    "templates/ticket 1.md",
     "Personal/Obsidian/plugins/dataview.md",
+    "personal/obsidian/links.md",
     "templates/super.md",
     "personal/Obsician/plugins/dataview.md",
     "Personal/obsidian.md",
