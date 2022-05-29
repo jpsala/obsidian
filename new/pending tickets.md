@@ -23,7 +23,9 @@ where status != "done"
 const {CoolString} = customJS
 dv.list(dv.pages().file.name.map(n => CoolString.coolify(n)))
 ```
-
+_
+![[Recording 20220529011950.webm]]
+_
 ```dataviewjs
 const {CoolString} = customJS
 dv.span(CoolString.coolify('hola'))

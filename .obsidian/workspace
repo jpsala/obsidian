@@ -14,26 +14,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "new/pending tickets.md",
+                "file": "new/Recording 20220529011950.webm.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             },
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
                 {
                   "leaf": "304356843c82bb40",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Roswell/tickets/non billable.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"new/Recording 20220529011950.webm.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
                   "leaf": "304356843c82bb40",
                   "group": null,
+                  "state": "{\"type\":\"video\",\"state\":{\"file\":\"new/attachments/Recording 20220529011950.webm\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "304356843c82bb40",
+                  "group": null,
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"new/pending tickets.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":44,\"ch\":27},\"to\":{\"line\":44,\"ch\":27}},\"scroll\":24.27369878253688}"
+                  "eState": "{\"scroll\":19.575772889212686}"
                 },
                 {
                   "leaf": "304356843c82bb40",
@@ -218,7 +224,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "new/pending tickets.md",
+                "file": "new/Recording 20220529011950.webm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -306,6 +312,8 @@
   },
   "active": "304356843c82bb40",
   "lastOpenFiles": [
+    "new/Recording 20220529011950.webm.md",
+    "new/attachments/Recording 20220529011950.webm",
     "new/pending tickets.md",
     "templates/JUL-238.md",
     "Roswell/tickets/non billable.md",
@@ -313,8 +321,6 @@
     "templates/ticket.md",
     "new/dataview.md",
     "Personal/Obsidian/plugins/dataview.md",
-    "personal/obsidian/links.md",
-    "templates/super.md",
-    "personal/Obsician/plugins/dataview.md"
+    "personal/obsidian/links.md"
   ]
 }
