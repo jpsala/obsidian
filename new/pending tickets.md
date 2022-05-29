@@ -42,5 +42,5 @@ require("child_process").exec("ls",(_0,stdout,_1) =>
 ```
 ```dataviewjs
 let pages = dv.pages('#ticket')
-dv.view('js/views/test1', {dv, pages})
+dv.view('js/views/test1', {pages})
 ```
