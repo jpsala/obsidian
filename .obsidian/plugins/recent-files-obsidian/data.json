@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "pending tickets",
-      "path": "new/pending tickets.md"
+      "basename": "ticket",
+      "path": "templates/ticket.md"
     },
     {
       "basename": "JUL-238",
       "path": "templates/JUL-238.md"
+    },
+    {
+      "basename": "pending tickets",
+      "path": "new/pending tickets.md"
     },
     {
       "basename": "non billable",
@@ -15,10 +19,6 @@
     {
       "basename": "Juliska",
       "path": "new/Juliska.md"
-    },
-    {
-      "basename": "ticket",
-      "path": "templates/ticket.md"
     },
     {
       "basename": "dataview",

@@ -3,9 +3,7 @@ table project, name, estimated, difficulty, status
 from #ticket and -#ticket/non-billable
 where status != "done"
 ```
-```dataviewjs
-dv.span(dv.current)
-```
+
 ``` dataviewjs
 	
 	let pages = dv.pages("#ticket or #ticket/non-billable")
