@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "non billable",
+      "path": "Roswell/tickets/non billable.md"
+    },
+    {
+      "basename": "ticket",
+      "path": "templates/ticket.md"
+    },
+    {
+      "basename": "ticket 1",
+      "path": "templates/ticket 1.md"
+    },
+    {
       "basename": "dataview",
       "path": "new/dataview.md"
     },
     {
       "basename": "Juliska",
       "path": "new/Juliska.md"
-    },
-    {
-      "basename": "ticket 1",
-      "path": "templates/ticket 1.md"
     },
     {
       "basename": "dataview",
@@ -29,16 +37,8 @@
       "path": "Roswell/Standups/standup 2022.5.27.md"
     },
     {
-      "basename": "non billable",
-      "path": "Roswell/tickets/non billable.md"
-    },
-    {
       "basename": "suma",
       "path": "Personal/suma.md"
-    },
-    {
-      "basename": "ticket",
-      "path": "templates/ticket.md"
     },
     {
       "basename": "Para-RO",
