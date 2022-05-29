@@ -36,5 +36,7 @@ require("child_process").exec("ls",(_0,stdout,_1) =>
 	}
 )
 ```
-`$= dv.current().file.mtime`
-
+```dataviewjs
+	let date = dv.current().file.mtime
+	dv.span(date)
+```
