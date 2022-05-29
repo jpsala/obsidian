@@ -5,15 +5,15 @@ where status != "done"
 ```
 ``` dataviewjs
 	
-	let pages = dv.pages("#ticket and -#aaa")
-	dv.table(["project", "name"], pages.map(row => {
+	let pages = dv.pages("#ticket or #ticket/non-billable")
+	dv.table(["file", "project", "name", "tags"], pages.map(row => {
 		if(row.project) {
 			console.log('row', row.project)
-			return [row.project, row.name, row.file.tags]
+			return [`[[#ticket]](row.name)`, row.project, row.name, row.file.tags.join(',')]
 		}
 		else {
 			dv.el("b", "This is some bold text", "tags");
-			return ["nada", "nada"]
+			return []
 		}
 	}))
 ```

@@ -22,7 +22,7 @@
               "leaf": "80ea9144b80723a2",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"templates/JUL-238.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
               "leaf": "80ea9144b80723a2",
@@ -40,7 +40,7 @@
         }
       },
       {
-        "id": "e0db1ab9a96b9d37",
+        "id": "9d2543efa9f154b1",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -55,10 +55,40 @@
           "pos": 0,
           "stack": [
             {
+              "leaf": "9d2543efa9f154b1",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"new/pending tickets.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":29},\"to\":{\"line\":8,\"ch\":29}}}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "e0db1ab9a96b9d37",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Roswell/tickets/non billable.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "e0db1ab9a96b9d37",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Roswell/tickets/non billable.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":25},\"to\":{\"line\":2,\"ch\":25}}}"
+            },
+            {
               "leaf": "e0db1ab9a96b9d37",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"new/pending tickets.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+              "eState": "{}"
             }
           ]
         }
@@ -177,11 +207,13 @@
               "stack": []
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 215
+    "width": 215,
+    "collapsed": true
   },
   "right": {
     "id": "6863e900ee850731",
@@ -283,7 +315,7 @@
     "width": 281.6158447265625,
     "collapsed": true
   },
-  "active": "e0db1ab9a96b9d37",
+  "active": "9d2543efa9f154b1",
   "lastOpenFiles": [
     "new/pending tickets.md",
     "templates/JUL-238.md",
