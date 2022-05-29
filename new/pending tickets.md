@@ -3,13 +3,15 @@ table project, name, estimated, difficulty, status
 from #ticket and -#ticket/non-billable
 where status != "done"
 ```
+```dataviewjs
+dv.span(dv.current)
+```
 ``` dataviewjs
 	
 	let pages = dv.pages("#ticket or #ticket/non-billable")
 	dv.table(["file", "project", "name", "tags"], pages.map(row => {
 		if(row.project) {
-			console.log('row', row.project)
-			return [`[[#ticket]](row.name)`, row.project, row.name, row.file.tags.join(',')]
+			return [row.file.link, row.project, row.name, row.file.tags.join(',')]
 		}
 		else {
 			dv.el("b", "This is some bold text", "tags");
