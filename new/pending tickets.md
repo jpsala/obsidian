@@ -29,6 +29,11 @@ const {CoolString} = customJS
 dv.span(CoolString.coolify('hola'))
 ```
 ```dataviewjs
-require("child_process").exec("ls",(_0,stdout,_1) => dv.span(stdout.replace('\n','')));""
+require("child_process").exec("ls",(_0,stdout,_1) => 
+	{
+		const out = stdout.split('\n')
+		out.forEach(r => dv.span(r))
+	}
+)
 ```
 
