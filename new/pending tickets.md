@@ -41,6 +41,6 @@ require("child_process").exec("ls",(_0,stdout,_1) =>
 	dv.span(date)
 ```
 ```dataviewjs
-let pages = dv.pages('#ticket')
+let pages = dv.pages('#ticket').where('"-#non-billable"')
 dv.view('js/views/test1', {pages})
 ```
