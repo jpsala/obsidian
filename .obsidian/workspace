@@ -10,7 +10,7 @@
           {
             "id": "304356843c82bb40",
             "type": "leaf",
-            "dimension": 39.88505747126437,
+            "dimension": 61.839080459770116,
             "state": {
               "type": "markdown",
               "state": {
@@ -33,7 +33,7 @@
                   "leaf": "304356843c82bb40",
                   "group": null,
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"new/pending tickets.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":3},\"to\":{\"line\":7,\"ch\":3}},\"scroll\":0}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":14},\"to\":{\"line\":11,\"ch\":14}},\"scroll\":0}"
                 },
                 {
                   "leaf": "304356843c82bb40",
@@ -47,7 +47,7 @@
           {
             "id": "80ea9144b80723a2",
             "type": "leaf",
-            "dimension": 60.11494252873564,
+            "dimension": 38.160919540229884,
             "state": {
               "type": "markdown",
               "state": {
@@ -109,7 +109,7 @@
               "leaf": "a08710f3232ab45b",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"templates/JUL-238.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":1},\"to\":{\"line\":14,\"ch\":1}},\"scroll\":0}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":8},\"to\":{\"line\":16,\"ch\":8}},\"scroll\":0}"
             },
             {
               "leaf": "a08710f3232ab45b",
