@@ -14,14 +14,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Roswell/tickets/non billable.md",
+                "file": "new/pending tickets.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             },
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
                 {
                   "leaf": "304356843c82bb40",
@@ -63,7 +63,7 @@
                 {
                   "leaf": "80ea9144b80723a2",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"templates/ticket 1.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"templates/JUL-238.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
                   "eState": "{}"
                 },
                 {
@@ -90,20 +90,26 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "templates/ticket 1.md",
+            "file": "templates/JUL-238.md",
             "mode": "source",
             "backlinks": false,
             "source": false
           }
         },
         "pane-relief:history-v1": {
-          "pos": 0,
+          "pos": 1,
           "stack": [
             {
               "leaf": "a08710f3232ab45b",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"templates/ticket 1.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"new/Juliska.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "a08710f3232ab45b",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"templates/JUL-238.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":8},\"to\":{\"line\":16,\"ch\":8}},\"scroll\":0}"
             },
             {
               "leaf": "a08710f3232ab45b",
@@ -114,7 +120,7 @@
             {
               "leaf": "a08710f3232ab45b",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"templates/ticket 1.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"templates/JUL-238.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
               "eState": "{}"
             },
             {
@@ -132,7 +138,7 @@
             {
               "leaf": "a08710f3232ab45b",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"templates/ticket 1.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"templates/JUL-238.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
               "eState": "{}"
             }
           ]
@@ -214,7 +220,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Roswell/tickets/non billable.md",
+                "file": "templates/JUL-238.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -300,13 +306,13 @@
     "width": 281.6158447265625,
     "collapsed": true
   },
-  "active": "304356843c82bb40",
+  "active": "a08710f3232ab45b",
   "lastOpenFiles": [
-    "Roswell/tickets/non billable.md",
+    "templates/JUL-238.md",
     "new/pending tickets.md",
-    "templates/ticket 1.md",
-    "templates/ticket.md",
+    "Roswell/tickets/non billable.md",
     "new/Juliska.md",
+    "templates/ticket.md",
     "new/dataview.md",
     "Personal/Obsidian/plugins/dataview.md",
     "personal/obsidian/links.md",
