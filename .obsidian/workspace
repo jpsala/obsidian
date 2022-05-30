@@ -52,7 +52,7 @@
               "leaf": "bdd62310c2b04d0c",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2022-05-30.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":93},\"to\":{\"line\":1,\"ch\":0}}}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":11},\"to\":{\"line\":4,\"ch\":11}}}"
             },
             {
               "leaf": "bdd62310c2b04d0c",
@@ -265,11 +265,11 @@
   "active": "bdd62310c2b04d0c",
   "lastOpenFiles": [
     "2022-05-30.md",
+    "Personal/Obsidian/plugins/dataview.md",
     "Personal/adenoides.md",
     "new/attachments/IMG_20220530_081504.jpg",
     "Roswell/projects/Juliska.md",
     "new/pueyredon.md",
-    "Personal/Obsidian/plugins/dataview.md",
     "new/dataview.md",
     "new/Fran.md",
     "Personal/Z1.md",
