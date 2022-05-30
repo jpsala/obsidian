@@ -50,7 +50,7 @@
                   "leaf": "49e323f475dbe609",
                   "group": null,
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"new/dataview.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":13},\"to\":{\"line\":1,\"ch\":0}}}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}},\"scroll\":0}"
                 },
                 {
                   "leaf": "49e323f475dbe609",
@@ -101,7 +101,7 @@
               "leaf": "1a16924e0841af51",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"new/Ehhh.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":27,\"ch\":12},\"to\":{\"line\":27,\"ch\":3}},\"scroll\":27.20891394087657}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":0},\"to\":{\"line\":26,\"ch\":0}},\"scroll\":26.706846438020477}"
             },
             {
               "leaf": "1a16924e0841af51",
@@ -217,7 +217,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "new/dataview.md",
+                "file": "new/Ehhh.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -287,10 +287,10 @@
     "width": 281.6158447265625,
     "collapsed": true
   },
-  "active": "49e323f475dbe609",
+  "active": "1a16924e0841af51",
   "lastOpenFiles": [
-    "new/dataview.md",
     "new/Ehhh.md",
+    "new/dataview.md",
     "templates/test1.md",
     "templates/ticket.md",
     "new/Untitled 1.md",
