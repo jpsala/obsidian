@@ -15,7 +15,7 @@
     }
   },
   "syntaxHighlight": false,
-  "copyButton": false,
+  "copyButton": true,
   "version": "9.0.3",
   "autoCollapse": false,
   "defaultCollapseType": "open",
@@ -27,7 +27,7 @@
     "admonitions": true,
     "icons": true,
     "other": true,
-    "advanced": false
+    "advanced": true
   },
   "icons": [],
   "useFontAwesome": true,

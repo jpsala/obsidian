@@ -131,7 +131,7 @@
               "leaf": "c856bdf3d2cc2c6d",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Personal/adenoides.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":14},\"to\":{\"line\":1,\"ch\":14}},\"scroll\":0}"
+              "eState": "{\"scroll\":0}"
             }
           ]
         }
@@ -155,7 +155,7 @@
               "leaf": "05f0920f5447b51a",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Personal/Obsidian/plugins/dataview.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":0},\"to\":{\"line\":14,\"ch\":0}},\"scroll\":1.9629099775867354}"
+              "eState": "{\"scroll\":1.9629099775867354}"
             }
           ]
         }
@@ -247,7 +247,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Obsidian/plugins/dataview.md",
+                "file": "Personal/adenoides.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -316,10 +316,10 @@
     "direction": "horizontal",
     "width": 281.6158447265625
   },
-  "active": "05f0920f5447b51a",
+  "active": "c856bdf3d2cc2c6d",
   "lastOpenFiles": [
-    "Personal/Obsidian/plugins/dataview.md",
     "Personal/adenoides.md",
+    "Personal/Obsidian/plugins/dataview.md",
     "new/dataview.md",
     "Personal/Z1.md",
     "Personal/NDE/Test note.md",
