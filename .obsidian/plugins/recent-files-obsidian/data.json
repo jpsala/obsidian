@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Z1",
+      "path": "Personal/Z1.md"
+    },
+    {
+      "basename": "dataview",
+      "path": "Personal/Obsidian/plugins/dataview.md"
+    },
+    {
       "basename": "adenoides",
       "path": "Personal/adenoides.md"
     },
@@ -39,10 +47,6 @@
     {
       "basename": "non billable",
       "path": "Roswell/tickets/non billable.md"
-    },
-    {
-      "basename": "dataview",
-      "path": "Personal/Obsidian/plugins/dataview.md"
     },
     {
       "basename": "links",
