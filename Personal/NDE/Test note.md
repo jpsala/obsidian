@@ -19,9 +19,9 @@ function hello() {
 ---
 
 ###### Hello all 22 [[test 233]] 
-
+![[IMG_20220530_081504.jpg]]
 ---
-- [x] uno
+- [x] uno![[VID_20220530_081508.mp4]]
 - [x] dos
 - [ ] tres
 - [x] <mark style="font-weight:400;color:yellow;background: coral;">cuatro</mark> 
