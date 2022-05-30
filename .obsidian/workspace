@@ -28,7 +28,7 @@
               "leaf": "8c99689645f4f04b",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Personal/adenoides.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"scroll\":6.235778149823674}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}},\"scroll\":4.788160794878074}"
             }
           ]
         }
@@ -52,7 +52,7 @@
               "leaf": "bdd62310c2b04d0c",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2022-05-30.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":22},\"to\":{\"line\":0,\"ch\":22}}}"
             },
             {
               "leaf": "bdd62310c2b04d0c",
@@ -192,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/adenoides.md",
+                "file": "2022-05-30.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -262,10 +262,10 @@
     "direction": "horizontal",
     "width": 281.6158447265625
   },
-  "active": "8c99689645f4f04b",
+  "active": "bdd62310c2b04d0c",
   "lastOpenFiles": [
-    "Personal/adenoides.md",
     "2022-05-30.md",
+    "Personal/adenoides.md",
     "new/attachments/IMG_20220530_081504.jpg",
     "Roswell/projects/Juliska.md",
     "new/pueyredon.md",
