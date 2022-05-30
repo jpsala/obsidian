@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "dataview",
+      "path": "new/dataview.md"
+    },
+    {
       "basename": "Ehhh",
       "path": "new/Ehhh.md"
     },
     {
+      "basename": "test1",
+      "path": "templates/test1.md"
+    },
+    {
+      "basename": "ticket",
+      "path": "templates/ticket.md"
+    },
+    {
       "basename": "Juliska",
       "path": "new/Juliska.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "new/Untitled.md"
     },
     {
       "basename": "JUL-222",
@@ -15,10 +31,6 @@
     {
       "basename": "EVA-233",
       "path": "Roswell/tickets/EVA-233.md"
-    },
-    {
-      "basename": "ticket",
-      "path": "templates/ticket.md"
     },
     {
       "basename": "non billable",

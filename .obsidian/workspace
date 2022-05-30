@@ -4,7 +4,86 @@
     "type": "split",
     "children": [
       {
-        "id": "49e323f475dbe609",
+        "id": "26979226e15c0847",
+        "type": "split",
+        "children": [
+          {
+            "id": "8c99689645f4f04b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "new/Ehhh.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "8c99689645f4f04b",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"new/Ehhh.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":27,\"ch\":14},\"to\":{\"line\":27,\"ch\":14}},\"scroll\":27.012936274779}"
+                }
+              ]
+            }
+          },
+          {
+            "id": "49e323f475dbe609",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "new/dataview.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "49e323f475dbe609",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"new/dataview.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":13},\"to\":{\"line\":1,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "49e323f475dbe609",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"new/Juliska.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "49e323f475dbe609",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"new/Ehhh.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.5021397875862514}"
+                },
+                {
+                  "leaf": "49e323f475dbe609",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Roswell/tickets/pending tickets.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":0},\"to\":{\"line\":20,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "leaf": "49e323f475dbe609",
+                  "group": null,
+                  "state": "{\"type\":\"empty\",\"state\":{}}",
+                  "eState": "{}"
+                }
+              ]
+            }
+          }
+        ],
+        "direction": "horizontal"
+      },
+      {
+        "id": "1a16924e0841af51",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -19,22 +98,34 @@
           "pos": 0,
           "stack": [
             {
-              "leaf": "49e323f475dbe609",
+              "leaf": "1a16924e0841af51",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"new/Ehhh.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.5021397875862514}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":27,\"ch\":12},\"to\":{\"line\":27,\"ch\":3}},\"scroll\":27.20891394087657}"
             },
             {
-              "leaf": "49e323f475dbe609",
+              "leaf": "1a16924e0841af51",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Roswell/tickets/pending tickets.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":0},\"to\":{\"line\":20,\"ch\":0}},\"scroll\":0}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"templates/test1.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
-              "leaf": "49e323f475dbe609",
+              "leaf": "1a16924e0841af51",
               "group": null,
-              "state": "{\"type\":\"empty\",\"state\":{}}",
-              "eState": "{}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"templates/ticket.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "1a16924e0841af51",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"new/Untitled 1.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":0},\"to\":{\"line\":18,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "1a16924e0841af51",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"new/Juliska.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":0},\"to\":{\"line\":17,\"ch\":0}},\"scroll\":1.9629099775867354}"
             }
           ]
         }
@@ -126,7 +217,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "new/Ehhh.md",
+                "file": "new/dataview.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,15 +289,15 @@
   },
   "active": "49e323f475dbe609",
   "lastOpenFiles": [
+    "new/dataview.md",
     "new/Ehhh.md",
+    "templates/test1.md",
+    "templates/ticket.md",
+    "new/Untitled 1.md",
     "new/Juliska.md",
+    "new/Untitled.md",
     "templates/JUL-238.md",
     "Roswell/tickets/pending tickets.md",
-    "Roswell/tickets/JUL-222.md",
-    "Roswell/tickets/EVA-233.md",
-    "templates/ticket.md",
-    "new/dataview.md",
-    "new/Untitled.md",
-    "Roswell/tickets/non billable.md"
+    "Roswell/tickets/JUL-222.md"
   ]
 }

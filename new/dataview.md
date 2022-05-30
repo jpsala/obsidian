@@ -1,5 +1,5 @@
 ```dataview
 table name, estimated, status, difficulty 
-from #ticket 
+from #ticket "#ticket/non-billable"
 ```
 
