@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "new/Ehhh.md",
+                "file": "Personal/adenoides.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -25,7 +25,7 @@
                 {
                   "leaf": "8c99689645f4f04b",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"new/Ehhh.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Personal/adenoides.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":27,\"ch\":14},\"to\":{\"line\":27,\"ch\":14}},\"scroll\":27.012936274779}"
                 }
               ]
@@ -61,7 +61,7 @@
                 {
                   "leaf": "49e323f475dbe609",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"new/Ehhh.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Personal/adenoides.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.5021397875862514}"
                 },
                 {
@@ -88,20 +88,26 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "new/Ehhh.md",
+            "file": "Personal/adenoides.md",
             "mode": "source",
             "backlinks": false,
             "source": false
           }
         },
         "pane-relief:history-v1": {
-          "pos": 0,
+          "pos": 1,
           "stack": [
             {
               "leaf": "1a16924e0841af51",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"new/Ehhh.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":0},\"to\":{\"line\":26,\"ch\":0}},\"scroll\":26.706846438020477}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Personal/NDE/Test note.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":0},\"to\":{\"line\":17,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "1a16924e0841af51",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Personal/adenoides.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":14},\"to\":{\"line\":1,\"ch\":0}},\"scroll\":0}"
             },
             {
               "leaf": "1a16924e0841af51",
@@ -126,6 +132,36 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"new/Juliska.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":0},\"to\":{\"line\":17,\"ch\":0}},\"scroll\":1.9629099775867354}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "2228aa1fa7505e96",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Personal/adenoides.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "2228aa1fa7505e96",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Personal/adenoides.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "2228aa1fa7505e96",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"new/dataview.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"scroll\":0}"
             }
           ]
         }
@@ -217,7 +253,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "new/Ehhh.md",
+                "file": "Personal/adenoides.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -287,17 +323,17 @@
     "width": 281.6158447265625,
     "collapsed": true
   },
-  "active": "1a16924e0841af51",
+  "active": "2228aa1fa7505e96",
   "lastOpenFiles": [
-    "new/Ehhh.md",
+    "Personal/adenoides.md",
     "new/dataview.md",
+    "Personal/NDE/Test note.md",
     "templates/test1.md",
     "templates/ticket.md",
     "new/Untitled 1.md",
     "new/Juliska.md",
     "new/Untitled.md",
     "templates/JUL-238.md",
-    "Roswell/tickets/pending tickets.md",
-    "Roswell/tickets/JUL-222.md"
+    "Roswell/tickets/pending tickets.md"
   ]
 }
