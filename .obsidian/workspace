@@ -7,17 +7,22 @@
         "id": "49e323f475dbe609",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "new/Ehhh.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
         },
         "pane-relief:history-v1": {
-          "pos": 1,
+          "pos": 0,
           "stack": [
             {
               "leaf": "49e323f475dbe609",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Roswell/tickets/JUL-222.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":16},\"to\":{\"line\":11,\"ch\":16}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"new/Ehhh.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.5021397875862514}"
             },
             {
               "leaf": "49e323f475dbe609",
@@ -33,62 +38,6 @@
             }
           ]
         }
-      },
-      {
-        "id": "d0d319052ddc9f7d",
-        "type": "split",
-        "children": [
-          {
-            "id": "dab9f4e0721c8533",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "leaf": "dab9f4e0721c8533",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"templates/JUL-238.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":0}"
-                }
-              ]
-            }
-          },
-          {
-            "id": "2075a732ec7becd9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "new/Juliska.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "leaf": "2075a732ec7becd9",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"new/Juliska.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "leaf": "2075a732ec7becd9",
-                  "group": null,
-                  "state": "{\"type\":\"empty\",\"state\":{}}",
-                  "eState": "{}"
-                }
-              ]
-            }
-          }
-        ],
-        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -143,14 +92,24 @@
               "pos": 0,
               "stack": []
             }
+          },
+          {
+            "id": "098e74afcc9bb14d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 215,
-    "collapsed": true
+    "width": 215
   },
   "right": {
     "id": "6863e900ee850731",
@@ -167,6 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "new/Ehhh.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +180,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "new/Ehhh.md"
+              }
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -234,17 +196,17 @@
     "width": 281.6158447265625,
     "collapsed": true
   },
-  "active": "dab9f4e0721c8533",
+  "active": "49e323f475dbe609",
   "lastOpenFiles": [
-    "templates/JUL-238.md",
+    "new/Ehhh.md",
     "new/Juliska.md",
+    "templates/JUL-238.md",
     "Roswell/tickets/pending tickets.md",
     "Roswell/tickets/JUL-222.md",
     "Roswell/tickets/EVA-233.md",
     "templates/ticket.md",
     "new/dataview.md",
     "new/Untitled.md",
-    "Roswell/tickets/non billable.md",
-    "new/Recording 20220529011950.webm.md"
+    "Roswell/tickets/non billable.md"
   ]
 }
