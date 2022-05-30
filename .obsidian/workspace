@@ -39,7 +39,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "new/pueyredon.md",
+            "file": "2022-05-30.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -51,8 +51,26 @@
             {
               "leaf": "bdd62310c2b04d0c",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2022-05-30.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "bdd62310c2b04d0c",
+              "group": null,
+              "state": "{\"type\":\"image\",\"state\":{\"file\":\"new/attachments/IMG_20220530_081504.jpg\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "bdd62310c2b04d0c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Roswell/projects/Juliska.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "bdd62310c2b04d0c",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"new/pueyredon.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":6},\"to\":{\"line\":3,\"ch\":6}}}"
+              "eState": "{}"
             },
             {
               "leaf": "bdd62310c2b04d0c",
@@ -174,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "new/pueyredon.md",
+                "file": "2022-05-30.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +234,8 @@
               "stack": []
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "53495f77fa120e5b",
@@ -245,15 +264,15 @@
   },
   "active": "bdd62310c2b04d0c",
   "lastOpenFiles": [
+    "2022-05-30.md",
+    "new/attachments/IMG_20220530_081504.jpg",
+    "Roswell/projects/Juliska.md",
     "new/pueyredon.md",
     "Personal/adenoides.md",
     "Personal/Obsidian/plugins/dataview.md",
     "new/dataview.md",
     "new/Fran.md",
     "Personal/Z1.md",
-    "Personal/NDE/Test note.md",
-    "templates/test1.md",
-    "templates/ticket.md",
-    "new/Untitled 1.md"
+    "Personal/NDE/Test note.md"
   ]
 }
