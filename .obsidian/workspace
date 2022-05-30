@@ -101,7 +101,7 @@
               "leaf": "2228aa1fa7505e96",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Personal/adenoides.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":14},\"to\":{\"line\":1,\"ch\":14}}}"
+              "eState": "{}"
             },
             {
               "leaf": "2228aa1fa7505e96",
@@ -126,7 +126,14 @@
         },
         "pane-relief:history-v1": {
           "pos": 0,
-          "stack": []
+          "stack": [
+            {
+              "leaf": "c856bdf3d2cc2c6d",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Personal/adenoides.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":14},\"to\":{\"line\":1,\"ch\":14}},\"scroll\":0}"
+            }
+          ]
         }
       },
       {
@@ -240,7 +247,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/adenoides.md",
+                "file": "Personal/Obsidian/plugins/dataview.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -309,10 +316,10 @@
     "direction": "horizontal",
     "width": 281.6158447265625
   },
-  "active": "2228aa1fa7505e96",
+  "active": "05f0920f5447b51a",
   "lastOpenFiles": [
-    "Personal/adenoides.md",
     "Personal/Obsidian/plugins/dataview.md",
+    "Personal/adenoides.md",
     "new/dataview.md",
     "Personal/Z1.md",
     "Personal/NDE/Test note.md",
