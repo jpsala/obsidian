@@ -28,7 +28,7 @@
               "leaf": "8c99689645f4f04b",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Personal/adenoides.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":34},\"to\":{\"line\":6,\"ch\":34}},\"scroll\":0}"
+              "eState": "{\"scroll\":6.235778149823674}"
             }
           ]
         }
@@ -192,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-05-30.md",
+                "file": "Personal/adenoides.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -262,13 +262,13 @@
     "direction": "horizontal",
     "width": 281.6158447265625
   },
-  "active": "bdd62310c2b04d0c",
+  "active": "8c99689645f4f04b",
   "lastOpenFiles": [
+    "Personal/adenoides.md",
     "2022-05-30.md",
     "new/attachments/IMG_20220530_081504.jpg",
     "Roswell/projects/Juliska.md",
     "new/pueyredon.md",
-    "Personal/adenoides.md",
     "Personal/Obsidian/plugins/dataview.md",
     "new/dataview.md",
     "new/Fran.md",
