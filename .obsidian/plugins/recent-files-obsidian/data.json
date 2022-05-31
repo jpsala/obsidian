@@ -5,12 +5,32 @@
       "path": "2022-05-30.md"
     },
     {
-      "basename": "2022-05-27",
-      "path": "Personal/Daily/2022-05-27.md"
+      "basename": "non billable",
+      "path": "Roswell/tickets/non billable.md"
     },
     {
-      "basename": "2022-06-03",
-      "path": "Personal/Daily/2022-06-03.md"
+      "basename": "JUL-222",
+      "path": "Roswell/tickets/JUL-222.md"
+    },
+    {
+      "basename": "EVA-233",
+      "path": "Roswell/tickets/EVA-233.md"
+    },
+    {
+      "basename": "standup 2022.5.27",
+      "path": "Roswell/Standups/standup 2022.5.27.md"
+    },
+    {
+      "basename": "Juliska",
+      "path": "Roswell/projects/Juliska.md"
+    },
+    {
+      "basename": "Z1",
+      "path": "Personal/Z1.md"
+    },
+    {
+      "basename": "suma",
+      "path": "Personal/suma.md"
     },
     {
       "basename": "adenoides",
@@ -29,8 +49,20 @@
       "path": "Personal/NDE/Test note.md"
     },
     {
-      "basename": "non billable",
-      "path": "Roswell/tickets/non billable.md"
+      "basename": "2022-06-03",
+      "path": "Personal/Daily/2022-06-03.md"
+    },
+    {
+      "basename": "2022-05-27",
+      "path": "Personal/Daily/2022-05-27.md"
+    },
+    {
+      "basename": "pueyredon",
+      "path": "new/pueyredon.md"
+    },
+    {
+      "basename": "dataview",
+      "path": "new/dataview.md"
     },
     {
       "basename": "super",
@@ -45,48 +77,12 @@
       "path": "templates/ticket.md"
     },
     {
-      "basename": "dataview",
-      "path": "new/dataview.md"
-    },
-    {
-      "basename": "pueyredon",
-      "path": "new/pueyredon.md"
-    },
-    {
       "basename": "IMG_20220530_081504",
       "path": "new/attachments/IMG_20220530_081504.jpg"
     },
     {
-      "basename": "Juliska",
-      "path": "Roswell/projects/Juliska.md"
-    },
-    {
-      "basename": "Z1",
-      "path": "Personal/Z1.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "new/Untitled.md"
-    },
-    {
-      "basename": "JUL-222",
-      "path": "Roswell/tickets/JUL-222.md"
-    },
-    {
-      "basename": "EVA-233",
-      "path": "Roswell/tickets/EVA-233.md"
-    },
-    {
       "basename": "links",
       "path": "personal/obsidian/links.md"
-    },
-    {
-      "basename": "standup 2022.5.27",
-      "path": "Roswell/Standups/standup 2022.5.27.md"
-    },
-    {
-      "basename": "suma",
-      "path": "Personal/suma.md"
     }
   ],
   "omittedPaths": [],

@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "bdd62310c2b04d0c",
+        "id": "05f0920f5447b51a",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -19,58 +19,106 @@
           "pos": 0,
           "stack": [
             {
-              "leaf": "bdd62310c2b04d0c",
+              "leaf": "05f0920f5447b51a",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2022-05-30.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":12},\"to\":{\"line\":3,\"ch\":12}}}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
-              "leaf": "bdd62310c2b04d0c",
+              "leaf": "05f0920f5447b51a",
               "group": null,
-              "state": "{\"type\":\"image\",\"state\":{\"file\":\"new/attachments/IMG_20220530_081504.jpg\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Roswell/tickets/non billable.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":2},\"to\":{\"line\":4,\"ch\":2}}}"
+            },
+            {
+              "leaf": "05f0920f5447b51a",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Roswell/tickets/JUL-222.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
               "eState": "{}"
             },
             {
-              "leaf": "bdd62310c2b04d0c",
+              "leaf": "05f0920f5447b51a",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Roswell/tickets/EVA-233.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":3},\"to\":{\"line\":6,\"ch\":0}}}"
+            },
+            {
+              "leaf": "05f0920f5447b51a",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Roswell/Standups/standup 2022.5.27.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "05f0920f5447b51a",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Roswell/projects/Juliska.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "05f0920f5447b51a",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Personal/Z1.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
               "eState": "{}"
             },
             {
-              "leaf": "bdd62310c2b04d0c",
+              "leaf": "05f0920f5447b51a",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"new/pueyredon.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Personal/suma.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
-              "leaf": "bdd62310c2b04d0c",
+              "leaf": "05f0920f5447b51a",
               "group": null,
-              "state": "{\"type\":\"empty\",\"state\":{}}",
-              "eState": "{}"
-            }
-          ]
-        }
-      },
-      {
-        "id": "05f0920f5447b51a",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Personal/Obsidian/plugins/dataview.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
-        },
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Personal/adenoides.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "05f0920f5447b51a",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Personal/Obsidian/links.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
             {
               "leaf": "05f0920f5447b51a",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Personal/Obsidian/plugins/dataview.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":0},\"to\":{\"line\":14,\"ch\":0}},\"scroll\":1.9585703931418066}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "05f0920f5447b51a",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Personal/NDE/Test note.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"scroll\":21.26959786323988}"
+            },
+            {
+              "leaf": "05f0920f5447b51a",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Personal/Daily/2022-06-03.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "05f0920f5447b51a",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Personal/Daily/2022-05-27.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "05f0920f5447b51a",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Personal/Daily/2022-06-03.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "05f0920f5447b51a",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Personal/Daily/2022-05-27.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "05f0920f5447b51a",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Personal/Obsidian/plugins/dataview.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"scroll\":0}"
             }
           ]
         }
@@ -210,17 +258,17 @@
     "direction": "horizontal",
     "width": 281.6158447265625
   },
-  "active": "bdd62310c2b04d0c",
+  "active": "05f0920f5447b51a",
   "lastOpenFiles": [
     "2022-05-30.md",
-    "Personal/Daily/2022-05-27.md",
-    "Personal/Daily/2022-06-03.md",
-    "Personal/adenoides.md",
-    "Personal/Obsidian/links.md",
-    "Personal/Obsidian/plugins/dataview.md",
-    "Personal/NDE/Test note.md",
     "Roswell/tickets/non billable.md",
-    "templates/super.md",
-    "templates/test1.md"
+    "Roswell/tickets/JUL-222.md",
+    "Roswell/tickets/EVA-233.md",
+    "Roswell/Standups/standup 2022.5.27.md",
+    "Roswell/projects/Juliska.md",
+    "Personal/Z1.md",
+    "Personal/suma.md",
+    "Personal/adenoides.md",
+    "Personal/Obsidian/links.md"
   ]
 }
