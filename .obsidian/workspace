@@ -16,8 +16,62 @@
           }
         },
         "pane-relief:history-v1": {
-          "pos": 1,
+          "pos": 0,
           "stack": [
+            {
+              "leaf": "8c99689645f4f04b",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Personal/adenoides.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":85},\"to\":{\"line\":4,\"ch\":85}}}"
+            },
+            {
+              "leaf": "8c99689645f4f04b",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Personal/Obsidian/links.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "8c99689645f4f04b",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Personal/Obsidian/plugins/dataview.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "8c99689645f4f04b",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Personal/NDE/Test note.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "8c99689645f4f04b",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Roswell/tickets/non billable.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "8c99689645f4f04b",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"templates/super.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "8c99689645f4f04b",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"templates/test1.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "8c99689645f4f04b",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"templates/ticket.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "8c99689645f4f04b",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"new/dataview.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
             {
               "leaf": "8c99689645f4f04b",
               "group": null,
@@ -27,8 +81,20 @@
             {
               "leaf": "8c99689645f4f04b",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Personal/NDE/Test note.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "8c99689645f4f04b",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Personal/Obsidian/plugins/dataview.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "8c99689645f4f04b",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Personal/adenoides.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":24},\"to\":{\"line\":5,\"ch\":24}},\"scroll\":0}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":24},\"to\":{\"line\":8,\"ch\":24}},\"scroll\":0}"
             }
           ]
         }
@@ -52,7 +118,7 @@
               "leaf": "bdd62310c2b04d0c",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2022-05-30.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":11},\"to\":{\"line\":4,\"ch\":11}}}"
+              "eState": "{}"
             },
             {
               "leaf": "bdd62310c2b04d0c",
@@ -265,14 +331,14 @@
   "active": "bdd62310c2b04d0c",
   "lastOpenFiles": [
     "2022-05-30.md",
-    "Personal/Obsidian/plugins/dataview.md",
     "Personal/adenoides.md",
-    "new/attachments/IMG_20220530_081504.jpg",
-    "Roswell/projects/Juliska.md",
-    "new/pueyredon.md",
-    "new/dataview.md",
-    "new/Fran.md",
-    "Personal/Z1.md",
-    "Personal/NDE/Test note.md"
+    "Personal/Obsidian/links.md",
+    "Personal/Obsidian/plugins/dataview.md",
+    "Personal/NDE/Test note.md",
+    "Roswell/tickets/non billable.md",
+    "templates/super.md",
+    "templates/test1.md",
+    "templates/ticket.md",
+    "new/dataview.md"
   ]
 }

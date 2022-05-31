@@ -5,12 +5,44 @@
       "path": "2022-05-30.md"
     },
     {
+      "basename": "adenoides",
+      "path": "Personal/adenoides.md"
+    },
+    {
+      "basename": "links",
+      "path": "Personal/Obsidian/links.md"
+    },
+    {
       "basename": "dataview",
       "path": "Personal/Obsidian/plugins/dataview.md"
     },
     {
-      "basename": "adenoides",
-      "path": "Personal/adenoides.md"
+      "basename": "Test note",
+      "path": "Personal/NDE/Test note.md"
+    },
+    {
+      "basename": "non billable",
+      "path": "Roswell/tickets/non billable.md"
+    },
+    {
+      "basename": "super",
+      "path": "templates/super.md"
+    },
+    {
+      "basename": "test1",
+      "path": "templates/test1.md"
+    },
+    {
+      "basename": "ticket",
+      "path": "templates/ticket.md"
+    },
+    {
+      "basename": "dataview",
+      "path": "new/dataview.md"
+    },
+    {
+      "basename": "pueyredon",
+      "path": "new/pueyredon.md"
     },
     {
       "basename": "IMG_20220530_081504",
@@ -21,28 +53,8 @@
       "path": "Roswell/projects/Juliska.md"
     },
     {
-      "basename": "pueyredon",
-      "path": "new/pueyredon.md"
-    },
-    {
-      "basename": "dataview",
-      "path": "new/dataview.md"
-    },
-    {
       "basename": "Z1",
       "path": "Personal/Z1.md"
-    },
-    {
-      "basename": "Test note",
-      "path": "Personal/NDE/Test note.md"
-    },
-    {
-      "basename": "test1",
-      "path": "templates/test1.md"
-    },
-    {
-      "basename": "ticket",
-      "path": "templates/ticket.md"
     },
     {
       "basename": "Untitled",
@@ -57,16 +69,8 @@
       "path": "Roswell/tickets/EVA-233.md"
     },
     {
-      "basename": "non billable",
-      "path": "Roswell/tickets/non billable.md"
-    },
-    {
       "basename": "links",
       "path": "personal/obsidian/links.md"
-    },
-    {
-      "basename": "super",
-      "path": "templates/super.md"
     },
     {
       "basename": "standup 2022.5.27",
