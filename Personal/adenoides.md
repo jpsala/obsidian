@@ -3,9 +3,6 @@
  people: [[Fran]]
 ---
 # [[Fran]] se operó de [[adenoides]] en la clínica [[pueyredon]] ![[pueyredon#image]]
-
-^c16e1f
-
  ^Entrada-a-la-clinica
 
 el 2022-05-30
