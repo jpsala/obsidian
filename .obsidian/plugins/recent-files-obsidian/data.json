@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "adenoides",
-      "path": "Personal/adenoides.md"
-    },
-    {
       "basename": "2022-05-30",
       "path": "2022-05-30.md"
+    },
+    {
+      "basename": "2022-05-27",
+      "path": "Personal/Daily/2022-05-27.md"
+    },
+    {
+      "basename": "2022-06-03",
+      "path": "Personal/Daily/2022-06-03.md"
+    },
+    {
+      "basename": "adenoides",
+      "path": "Personal/adenoides.md"
     },
     {
       "basename": "links",
@@ -79,14 +87,6 @@
     {
       "basename": "suma",
       "path": "Personal/suma.md"
-    },
-    {
-      "basename": "2022-06-03",
-      "path": "Personal/Daily/2022-06-03.md"
-    },
-    {
-      "basename": "2022-05-27",
-      "path": "Personal/Daily/2022-05-27.md"
     }
   ],
   "omittedPaths": [],
