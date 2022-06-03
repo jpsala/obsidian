@@ -7,13 +7,8 @@
         "id": "05f0920f5447b51a",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "2022-05-30.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         },
         "pane-relief:history-v1": {
           "pos": 0,
@@ -21,104 +16,8 @@
             {
               "leaf": "05f0920f5447b51a",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2022-05-30.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "05f0920f5447b51a",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Roswell/tickets/non billable.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":2},\"to\":{\"line\":4,\"ch\":2}}}"
-            },
-            {
-              "leaf": "05f0920f5447b51a",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Roswell/tickets/JUL-222.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "state": "{\"type\":\"graph\",\"state\":{}}",
               "eState": "{}"
-            },
-            {
-              "leaf": "05f0920f5447b51a",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Roswell/tickets/EVA-233.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":3},\"to\":{\"line\":6,\"ch\":0}}}"
-            },
-            {
-              "leaf": "05f0920f5447b51a",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Roswell/Standups/standup 2022.5.27.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "05f0920f5447b51a",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Roswell/projects/Juliska.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "05f0920f5447b51a",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Personal/Z1.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "05f0920f5447b51a",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Personal/suma.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "05f0920f5447b51a",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Personal/adenoides.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "05f0920f5447b51a",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Personal/Obsidian/links.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "05f0920f5447b51a",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Personal/Obsidian/plugins/dataview.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-            },
-            {
-              "leaf": "05f0920f5447b51a",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Personal/NDE/Test note.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"scroll\":21.26959786323988}"
-            },
-            {
-              "leaf": "05f0920f5447b51a",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Personal/Daily/2022-06-03.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "05f0920f5447b51a",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Personal/Daily/2022-05-27.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-            },
-            {
-              "leaf": "05f0920f5447b51a",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Personal/Daily/2022-06-03.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "05f0920f5447b51a",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Personal/Daily/2022-05-27.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "05f0920f5447b51a",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Personal/Obsidian/plugins/dataview.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"scroll\":0}"
             }
           ]
         }
@@ -127,15 +26,27 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "e9f897cfb50dce29",
+    "id": "e7a193fb07e1cab5",
     "type": "split",
     "children": [
       {
-        "id": "075aa338281157d9",
+        "id": "717ca1e374e074e3",
         "type": "tabs",
         "children": [
           {
-            "id": "1a81c7fbd2d98a53",
+            "id": "a474484065e5f097",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "cfebec1ee16261d5",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -147,12 +58,12 @@
             }
           },
           {
-            "id": "6b9627312fda95f6",
+            "id": "f9917d7330d15e0d",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "puey",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -166,19 +77,7 @@
             }
           },
           {
-            "id": "8ccff1d1fbc9cab3",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            }
-          },
-          {
-            "id": "098e74afcc9bb14d",
+            "id": "de8db877e5248239",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -193,39 +92,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264.0136413574219
+    "width": 300
   },
   "right": {
-    "id": "6863e900ee850731",
+    "id": "f5550a4c25aa4780",
     "type": "split",
     "children": [
       {
-        "id": "33685b040d477175",
+        "id": "9cc99a48ee63a404",
         "type": "tabs",
         "children": [
           {
-            "id": "131a82a89d58d39d",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "2022-05-30.md",
-                "collapseAll": true,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              }
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            }
-          },
-          {
-            "id": "e7e3fb7372c7a75d",
+            "id": "aeb216876951c166",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -237,7 +115,27 @@
             }
           },
           {
-            "id": "a698d76aac0685e1",
+            "id": "6796565287083b4b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "1bf710e9a04e8c30",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -251,12 +149,12 @@
               "stack": []
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 281.6158447265625
+    "width": 300,
+    "collapsed": true
   },
   "active": "05f0920f5447b51a",
   "lastOpenFiles": [
