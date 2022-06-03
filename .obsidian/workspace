@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "05f0920f5447b51a",
+        "id": "c5d7ac0e9b9ce259",
         "type": "leaf",
         "state": {
-          "type": "graph",
+          "type": "empty",
           "state": {}
         },
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "05f0920f5447b51a",
+              "leaf": "c5d7ac0e9b9ce259",
               "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
             }
           ]
@@ -156,8 +156,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "05f0920f5447b51a",
+  "active": "c5d7ac0e9b9ce259",
   "lastOpenFiles": [
+    "Chrome Clip Obsidian Clipper.md",
     "2022-05-30.md",
     "Roswell/tickets/non billable.md",
     "Roswell/tickets/JUL-222.md",
@@ -166,7 +167,6 @@
     "Roswell/projects/Juliska.md",
     "Personal/Z1.md",
     "Personal/suma.md",
-    "Personal/adenoides.md",
-    "Personal/Obsidian/links.md"
+    "Personal/adenoides.md"
   ]
 }
