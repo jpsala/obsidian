@@ -7,12 +7,23 @@
         "id": "c5d7ac0e9b9ce259",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Personal/Daily/2022-06-03.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
         },
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
+            {
+              "leaf": "c5d7ac0e9b9ce259",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Personal/Daily/2022-06-03.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
             {
               "leaf": "c5d7ac0e9b9ce259",
               "group": null,
@@ -63,7 +74,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "co",
+                "query": "ask",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,12 +100,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f5550a4c25aa4780",
@@ -122,6 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Personal/Daily/2022-06-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,6 +171,7 @@
   },
   "active": "c5d7ac0e9b9ce259",
   "lastOpenFiles": [
+    "Personal/Daily/2022-06-03.md",
     "Chrome Clip Obsidian Clipper.md",
     "2022-05-30.md",
     "Roswell/tickets/non billable.md",
@@ -168,7 +180,6 @@
     "Roswell/Standups/standup 2022.5.27.md",
     "Roswell/projects/Juliska.md",
     "Personal/Z1.md",
-    "Personal/suma.md",
-    "Personal/adenoides.md"
+    "Personal/suma.md"
   ]
 }

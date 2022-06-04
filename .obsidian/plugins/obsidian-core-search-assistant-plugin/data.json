@@ -2,7 +2,7 @@
   "keepSelectedItemsCentered": false,
   "outlineWidth": 3,
   "autoPreviewMode": "cardView",
-  "cardViewLayout": "2x2",
+  "cardViewLayout": "3x2",
   "splitDirection": "vertical",
   "autoToggleSidebar": true,
   "renderCardsManually": false,
